@@ -1,0 +1,31 @@
+name: Aggiorna dati aste
+
+on:
+  schedule:
+    - cron: '0 5 * * 1' # ogni lunedì alle 05:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Esegui lo scraper
+        run: npm run scrape
+      - name: Committa i dati se cambiati
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git add data/
+            git commit -m "chore: aggiornamento dati aste $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "Nessuna variazione nei dati."
+          fi

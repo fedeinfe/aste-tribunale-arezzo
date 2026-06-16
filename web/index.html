@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aste Immobiliari · Tribunale di Arezzo</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">⚖️</span>
+      <div>
+        <h1>Aste Immobiliari · Tribunale di Arezzo</h1>
+        <p id="meta" class="meta">Caricamento dati…</p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <span id="count" class="count">—</span>
+      <button id="exportCsv" class="btn-ghost">⬇ CSV</button>
+      <button id="toggleView" class="btn-ghost">Vista lista</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="filters">
+        <label class="field">
+          <span>Ricerca libera</span>
+          <input type="search" id="q" placeholder="comune, via, parola chiave…" />
+        </label>
+
+        <label class="field">
+          <span>Categoria</span>
+          <select id="categoria"><option value="">Tutte</option></select>
+        </label>
+
+        <label class="field">
+          <span>Comune</span>
+          <select id="comune"><option value="">Tutti</option></select>
+        </label>
+
+        <div class="field">
+          <span>Prezzo base (€)</span>
+          <div class="range">
+            <input type="number" id="prezzoMin" placeholder="min" min="0" step="1000" />
+            <input type="number" id="prezzoMax" placeholder="max" min="0" step="1000" />
+          </div>
+        </div>
+
+        <div class="field">
+          <span>Data asta</span>
+          <div class="range">
+            <input type="date" id="dataMin" />
+            <input type="date" id="dataMax" />
+          </div>
+        </div>
+
+        <label class="check"><input type="checkbox" id="soloTerreni" /> Solo terreni</label>
+        <label class="check"><input type="checkbox" id="soloGeo" /> Solo con posizione precisa</label>
+        <label class="check"><input type="checkbox" id="soloAperte" /> Solo offerte ancora aperte</label>
+
+        <div class="field">
+          <span>Ordina per</span>
+          <select id="ordina">
+            <option value="dataAsta">Data asta (prima le imminenti)</option>
+            <option value="scadenza">Scadenza offerte (prima le imminenti)</option>
+            <option value="prezzoAsc">Prezzo crescente</option>
+            <option value="prezzoDesc">Prezzo decrescente</option>
+          </select>
+        </div>
+
+        <button id="reset" class="btn-ghost full">Azzera filtri</button>
+      </div>
+
+      <ul id="list" class="list"></ul>
+    </aside>
+
+    <main class="map-wrap">
+      <div id="map"></div>
+      <div id="legend" class="legend"></div>
+    </main>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

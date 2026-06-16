@@ -1,0 +1,12 @@
+{
+  "name": "aste-tribunale-arezzo",
+  "version": "1.0.0",
+  "description": "Dashboard con mappa per le aste immobiliari del Tribunale di Arezzo",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper/scrape.mjs",
+    "serve": "node scraper/serve.mjs",
+    "start": "npm run scrape && npm run serve"
+  },
+  "license": "MIT"
+}

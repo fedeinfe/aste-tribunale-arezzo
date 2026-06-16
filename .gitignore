@@ -1,0 +1,6 @@
+node_modules/
+*.log
+.DS_Store
+.omc/
+.claude/
+_site/
