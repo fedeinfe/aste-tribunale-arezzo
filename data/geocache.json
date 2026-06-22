@@ -328,5 +328,65 @@
     "lat": 43.4940141,
     "lng": 11.6226514,
     "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Caprese Michelangelo - località Zenzano 266": {
+    "lat": 43.6405741,
+    "lng": 11.9874471,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Montevarchi - Via Pestello n. 15": {
+    "lat": 43.5203294,
+    "lng": 11.5680596,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Via Vittorio Veneto, 132, 52100 Arezzo AR, Italia": {
+    "lat": 43.5623184,
+    "lng": 11.852017,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - VIA CRISPI 60": {
+    "lat": 43.461229,
+    "lng": 11.8812411,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - LOC. MADONNA DI MEZZASTRADA 33": {
+    "lat": 43.4218863,
+    "lng": 11.8465907,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Rigutino Ovest 187/A - Fraz. Rigutino": {
+    "lat": 43.4628957,
+    "lng": 11.8781675,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Pieve Santo Stefano - Via Dagnano, 52036 Dagnano AR, Italia": {
+    "lat": 43.6573083,
+    "lng": 12.0571083,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Bibbiena - Via Umbro Casentinese, 71, 52011 Bibbiena AR, Italia": {
+    "lat": 43.7361344,
+    "lng": 11.8483386,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Bibbiena - Via Umbro Casentinese, 69/D, 52011 Bibbiena AR, Italia": {
+    "lat": 43.7380676,
+    "lng": 11.8131922,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Bibbiena - Via Umbro Casentinese, 69, 52011 Bibbiena AR, Italia": {
+    "lat": 43.7380676,
+    "lng": 11.8131922,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Laterina Pergine Valdarno - Via Nazionale, 110, 52019 Ponticino AR, Italia": {
+    "lat": 43.4945948,
+    "lng": 11.6350017,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Subbiano - Via Signorini, 30, 52010 Subbiano AR, Italia": {
+    "lat": 43.5827769,
+    "lng": 11.8713614,
+    "precision": "indirizzo"
   }
 }
