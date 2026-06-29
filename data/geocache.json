@@ -388,5 +388,20 @@
     "lat": 43.5827769,
     "lng": 11.8713614,
     "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Castiglion Fiorentino - Via Adua 168/170 - Strada regionale Umbro Casentinese 232-236": {
+    "lat": 43.341715,
+    "lng": 11.92378,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Monte San Savino - Località Mandriana, 52048 Monte San Savino AR, Italia": {
+    "lat": 43.3434908,
+    "lng": 11.6993695,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Castel Focognano - Piazza Giuseppe Mazzini, 50, 52016 Rassina AR, Italia": {
+    "lat": 43.6519576,
+    "lng": 11.834375,
+    "precision": "indirizzo"
   }
 }
