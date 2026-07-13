@@ -403,5 +403,50 @@
     "lat": 43.6519576,
     "lng": 11.834375,
     "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Localita' Patrignone": {
+    "lat": 43.4628957,
+    "lng": 11.8781675,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Arezzo - Loc. Sant'Anastasio 9": {
+    "lat": 43.4212687,
+    "lng": 11.8532349,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Cortona - Via Case Sparse, 52044 Cortona AR, Italia": {
+    "lat": 43.2752976,
+    "lng": 11.9850623,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Caprese Michelangelo - VIA SINGERNA 165": {
+    "lat": 43.6423028,
+    "lng": 11.9878314,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Localita' Ponte a Chiani, snc": {
+    "lat": 43.4453988,
+    "lng": 11.812713,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Castiglion Fibocchi - Via Vecchia Aretina, 52029 Castiglion Fibocchi AR, Italia": {
+    "lat": 43.5279646,
+    "lng": 11.7631758,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Arezzo - Via Edison, 9": {
+    "lat": 43.5406117,
+    "lng": 12.0686537,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Viale Santa Margherita, 56, 52100 Arezzo AR, Italia": {
+    "lat": 43.4721886,
+    "lng": 11.8793467,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Località Rigutino Ovest, 52100 Arezzo AR, Italia": {
+    "lat": 43.3741385,
+    "lng": 11.865695,
+    "precision": "indirizzo"
   }
 }
