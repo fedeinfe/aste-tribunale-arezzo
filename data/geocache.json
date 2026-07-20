@@ -448,5 +448,70 @@
     "lat": 43.3741385,
     "lng": 11.865695,
     "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Marciano della Chiana - Via Sante Tani, 29": {
+    "lat": 43.3063873,
+    "lng": 11.7868032,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > San Giovanni Valdarno - Lungarno Don Giovanni Minzoni, 1": {
+    "lat": 43.5685413,
+    "lng": 11.5326558,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > San Giovanni Valdarno - Lungarno Don Giovanni Minzoni, 2/A": {
+    "lat": 43.5685413,
+    "lng": 11.5326558,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Montevarchi - Via Cennano, 82, 52025 Montevarchi AR, Italia": {
+    "lat": 43.5228599,
+    "lng": 11.5672235,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Località Gragnone, 13, 52100 Bossi-cellaio AR, Italia": {
+    "lat": 43.4628957,
+    "lng": 11.8781675,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Pieve Santo Stefano - Via delle Antiche Prigioni n. 7": {
+    "lat": 43.6689212,
+    "lng": 12.0420521,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Laterina Pergine Valdarno - Via Vallelunga, 4, 52019 Pergine Valdarno AR, Italia": {
+    "lat": 43.4925339,
+    "lng": 11.6880797,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Laterina Pergine Valdarno - Via Vallelunga, 6, 52019 Pergine Valdarno AR, Italia": {
+    "lat": 43.4925339,
+    "lng": 11.6880797,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Montevarchi - Via Levanella-la Lama, 52025 Montevarchi AR, Italia": {
+    "lat": 43.5234999,
+    "lng": 11.5675911,
+    "precision": "comune"
+  },
+  "Emilia Romagna > Rimini > Pennabilli - Frazione di Maciano via Serra di Sopra n. 28": {
+    "lat": 43.8171097,
+    "lng": 12.2652492,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Arezzo - Comune di Arezzo, Località Ponte a Chiani, Vocabolo Carbonaia": {
+    "lat": 43.4667641,
+    "lng": 11.882269,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Vocabolo Carbonaia Località Ponte a Chiani": {
+    "lat": 43.4628957,
+    "lng": 11.8781675,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Arezzo - Via T.A. Edison n. 9-11-13": {
+    "lat": 43.4628957,
+    "lng": 11.8781675,
+    "precision": "comune"
   }
 }
