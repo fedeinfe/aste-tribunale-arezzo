@@ -513,5 +513,10 @@
     "lat": 43.4628957,
     "lng": 11.8781675,
     "precision": "comune"
+  },
+  "Toscana > Arezzo > Bibbiena - Via S. Vincenzo, 19/A, 52011 Bibbiena AR, Italia": {
+    "lat": 43.7003128,
+    "lng": 11.8150283,
+    "precision": "indirizzo"
   }
 }
