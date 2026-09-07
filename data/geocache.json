@@ -583,5 +583,30 @@
     "lat": 43.5409662,
     "lng": 12.0545815,
     "precision": "comune"
+  },
+  "Toscana > Arezzo > Badia Tedalda - Vocabolo Cà Federico, Loc. Santa Sofia": {
+    "lat": 43.7092081,
+    "lng": 12.1848762,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Foiano della Chiana - Via Giuseppe di Vittorio, 116, 52045 Foiano della Chiana AR, Italia": {
+    "lat": 43.2533514,
+    "lng": 11.8110336,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Terranuova Bracciolini - Via Vittorio Veneto, 60/E": {
+    "lat": 43.553877,
+    "lng": 11.5924039,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Terranuova Bracciolini - Via G. Monaco, 4": {
+    "lat": 43.5588759,
+    "lng": 11.6086495,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Chiusi della Verna - Via Roma, 86, 52010 Chiusi della Verna AR, Italia": {
+    "lat": 43.6950243,
+    "lng": 11.9386322,
+    "precision": "comune"
   }
 }
