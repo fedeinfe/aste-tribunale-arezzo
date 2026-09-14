@@ -608,5 +608,30 @@
     "lat": 43.6950243,
     "lng": 11.9386322,
     "precision": "comune"
+  },
+  "Toscana > Arezzo > Arezzo - località rigutino": {
+    "lat": 43.3991465,
+    "lng": 11.896526,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Anghiari - Località Viaio, Vocabolo Molin di Catorcio": {
+    "lat": 43.5409662,
+    "lng": 12.0545815,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Anghiari - Frazione Toppole /Casale n. 76 - Vocabolo Poderuzzo": {
+    "lat": 43.5409662,
+    "lng": 12.0545815,
+    "precision": "comune"
+  },
+  "Emilia Romagna > Forlì-Cesena > Gatteo - Via Venezia 4, Loc. Gatteo a Mare": {
+    "lat": 44.1678682,
+    "lng": 12.4383996,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - San Giuliano - Val di Vingone n. 26": {
+    "lat": 43.4628957,
+    "lng": 11.8781675,
+    "precision": "comune"
   }
 }
