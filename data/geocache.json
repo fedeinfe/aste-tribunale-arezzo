@@ -633,5 +633,45 @@
     "lat": 43.4628957,
     "lng": 11.8781675,
     "precision": "comune"
+  },
+  "Toscana > Arezzo > Sansepolcro - Via dei Tarlati n.1122": {
+    "lat": 43.5633092,
+    "lng": 12.1181302,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Castiglion Fiorentino - Località Montecchio n. 269/e, 52043 Castiglion Fiorentino AR, Italia": {
+    "lat": 43.341715,
+    "lng": 11.92378,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Marciano della Chiana - Via Molino, 52047 Marciano della Chiana AR, Italia": {
+    "lat": 43.3029462,
+    "lng": 11.7773048,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Via Anconetana 206": {
+    "lat": 43.4582651,
+    "lng": 11.901575,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - via anconetana 206": {
+    "lat": 43.4582651,
+    "lng": 11.901575,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - VIA ALESSANDRO DEL VITA N. 31": {
+    "lat": 43.4591308,
+    "lng": 11.9079956,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Bibbiena - Localita' Pianacci, 10, 52011 Soci AR, Italia": {
+    "lat": 43.7255209,
+    "lng": 11.8939339,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Bibbiena - Localita' Pianacci, 52011 Soci AR, Italia": {
+    "lat": 43.7255209,
+    "lng": 11.8939339,
+    "precision": "indirizzo"
   }
 }
