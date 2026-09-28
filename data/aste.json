@@ -1,316 +1,9 @@
 {
-  "scrapedAt": "2026-09-21T10:25:05.173Z",
+  "scrapedAt": "2026-09-28T11:27:03.909Z",
   "source": "https://www.tribunale.arezzo.giustizia.it/it/Aste/SearchImmobili",
-  "count": 95,
-  "geocoded": 95,
+  "count": 99,
+  "geocoded": 99,
   "items": [
-    {
-      "id": "B2427080",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2427080",
-      "img": "https://documents.astalegale.net/asta/0/B2427080?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Localita' Patrignone",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Localita' Patrignone",
-      "procedura": "Procedure concorsuali / Fallimentare 41/2018 Tribunale Arezzo",
-      "dataAsta": "2026-09-22T09:00",
-      "dataAstaLabel": "22/09/2026 09:00",
-      "prezzoBase": 289000,
-      "tipologia": "Terreno Diritto di piena proprietà per l’intero (1/1) su terreno edificabile della superficie nominale complessiva di 1.380 mq.",
-      "categoria": "Terreno",
-      "offertaMinima": 289000,
-      "terminePresentazione": "21/09/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/cf4ba9eba7177cfe0a924869aa7b8d48/2422565-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/baaac840f6d4a03679f5ad34e899750d/2422564-B"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/f26a8a186637434b4f8a9994f3809986/2422567-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/832a8a148640abdfa5e099d61e3cdc21/2422568-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/6112d51ea31a4ea63dbfd6451077cf08/2422566-B"
-        },
-        {
-          "label": "Altro",
-          "url": "https://documents.astalegale.net/file/0/b04381d62e45b210a087b281060a66a1/2422570-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/f26a8a186637434b4f8a9994f3809986/2422567-B",
-      "lat": 43.4628957,
-      "lng": 11.8781675,
-      "geoPrecision": "comune"
-    },
-    {
-      "id": "B2420367",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2420367",
-      "img": "https://documents.astalegale.net/asta/0/B2420367?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Castiglion Fiorentino - Via Misericordia, 52043 Castiglion Fiorentino AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Castiglion Fiorentino",
-      "indirizzo": "Via Misericordia, 52043 Castiglion Fiorentino AR, Italia",
-      "procedura": "Esecuzioni civili 170/2020 Tribunale Arezzo",
-      "dataAsta": "2026-09-22T10:00",
-      "dataAstaLabel": "22/09/2026 10:00",
-      "prezzoBase": 448300,
-      "tipologia": "Opifici Opificio industriale LOTTO A",
-      "categoria": "Industriale / Magazzino",
-      "offertaMinima": 336225,
-      "terminePresentazione": "21/09/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/b0ef3d079f14b6896e36045711241cfd/2375714-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/2950cd6c14634cf93e4f43cbdf1a31c4/2375713-B"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/6ce595c942527f4e53f7eb0d38997acd/2375679-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/6ce595c942527f4e53f7eb0d38997acd/2375679-B",
-      "lat": 43.3421069,
-      "lng": 11.9100134,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2423795",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2423795",
-      "img": "https://documents.astalegale.net/asta/0/B2423795?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Montevarchi - Via Pestello n. 15",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Montevarchi",
-      "indirizzo": "Via Pestello n. 15",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 141/2024 Tribunale Arezzo",
-      "dataAsta": "2026-09-22T11:00",
-      "dataAstaLabel": "22/09/2026 11:00",
-      "prezzoBase": 79645,
-      "tipologia": "Abitazione di tipo civile appartamento di civile abitazione, sito al secondo piano e facente parte di un più ampio fabbricato + garage, situato al piano terra del fabbricato a destinazione residenziale, accessibile dalla strada principale in Via Pestello, civico 15/1",
-      "categoria": "Box / Garage",
-      "offertaMinima": 59734,
-      "terminePresentazione": "21/09/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/38b4c21a8c4c020ed17661a2c76c56b6/2398479-C"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/40fbb545e745b9a5171b054d6b087812/2398456-C"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/55aceb6e47e4a88a35522020ccb9adfd/2398457-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/40fbb545e745b9a5171b054d6b087812/2398456-C",
-      "lat": 43.5203294,
-      "lng": 11.5680596,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2423663",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2423663",
-      "img": "https://documents.astalegale.net/asta/0/B2423663?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Rigutino Ovest 187/A - Fraz. Rigutino",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Rigutino Ovest 187/A - Fraz. Rigutino",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 69/2024 Tribunale Arezzo",
-      "dataAsta": "2026-09-24T09:00",
-      "dataAstaLabel": "24/09/2026 09:00",
-      "prezzoBase": 155776,
-      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà per l’intero su di un fabbricato singolo sito in Arezzo (AR), Rigutino Ovest 187/A, frazione Rigutino. Il bene è costituito da un immobile monofamiliare, con annesso resede di pertinenza esterno ed è composto dall’unità residenziale posta a piano interrato, terra, primo, soffitta, oltre a garage a piano terra.",
-      "categoria": "Box / Garage",
-      "offertaMinima": 116832,
-      "terminePresentazione": "23/09/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/1099121b10f1c68fd4ec1df4428d6cf8/2397361-C"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/d43979b7d8cc7cd6d7444db2290b1e68/2397360-C"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/8b3fa4d5545b5ddf93b92bab79aac0ee/2223198-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/8b139b3709743cdd1e55d87eeef620ee/2306774-D"
-        },
-        {
-          "label": "Planimetria 1",
-          "url": "https://documents.astalegale.net/file/0/0d7dbeddc016bfa956a928ab84920139/2223199-B"
-        },
-        {
-          "label": "Planimetria 2",
-          "url": "https://documents.astalegale.net/file/0/75acf7a0e38d0b481084235c7318958e/2223200-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/8b3fa4d5545b5ddf93b92bab79aac0ee/2223198-B",
-      "lat": 43.4628957,
-      "lng": 11.8781675,
-      "geoPrecision": "comune"
-    },
-    {
-      "id": "B2423797",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2423797",
-      "img": "https://documents.astalegale.net/asta/0/B2423797?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Via Vittorio Veneto, 132, 52100 Arezzo AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Via Vittorio Veneto, 132, 52100 Arezzo AR, Italia",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 43/2025 Tribunale Arezzo",
-      "dataAsta": "2026-09-24T10:00",
-      "dataAstaLabel": "24/09/2026 10:00",
-      "prezzoBase": 92950,
-      "tipologia": "Abitazione di tipo civile abitazione di tipo economico sita in Arezzo, Via Vittorio Veneto n. 132A, piano primo, interno 2, scala condominiale; l’appartamento, al quale si accede da scala condominiale, è composto da disimpegno, cucina, bagno e n. 4 vani; corredano l’appartamento n. 2 balconi al piano primo e n. 2 locali ad uso cantina al piano seminterrato, ai quali si accede da scala condominiale. Completa la proprietà...",
-      "categoria": "Abitazione",
-      "offertaMinima": 68187.5,
-      "terminePresentazione": "23/09/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/9d73dd735950bd0dac535439abab6495/2398048-C"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/5a5f700e60bd9928cf5eb428dd19c72d/2398047-C"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/7a2085d8e7adc6b402407427e2d7cd84/2398037-C"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/aef04752c93078b682c65f41ada3067b/2398036-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/7a2085d8e7adc6b402407427e2d7cd84/2398037-C",
-      "lat": 43.5623184,
-      "lng": 11.852017,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2428797",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428797",
-      "img": "https://documents.astalegale.net/asta/0/B2428797?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > San Giovanni Valdarno - località Vacchereccia - via Pietro Mascagni e località Vacchereccia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "San Giovanni Valdarno",
-      "indirizzo": "località Vacchereccia - via Pietro Mascagni e località Vacchereccia",
-      "procedura": "Esecuzioni civili 11/2019 Tribunale Arezzo",
-      "dataAsta": "2026-09-24T10:30",
-      "dataAstaLabel": "24/09/2026 10:30",
-      "prezzoBase": 100059.65,
-      "tipologia": "Fabbricato Compendio immobiliare composto da: 5a) - fabbricato a destinazione residenziale non ultimato; 5b) - fabbricato a destinazione residenziale non ultimato; 5c e 5d) - aree destinate ad urbanizzazioni primarie, attrezzature pubbliche e lotti edificabili, tutte raggiungibili dalla strada pubblica denominata di Vacchereccia; 5d) - n. 3 (tre) lotti edificabili; 5e) - appezzamento di terreno.",
-      "categoria": "Terreno",
-      "offertaMinima": 75044.74,
-      "terminePresentazione": "23/09/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/765379535dbabbaf8f95d9638bde5275/2438021-C"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/a556bcda2c0409db3a2779d77720c78e/2438020-C"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/7ee459b3df53e86efe3ef90059b7afe2/2085462-D"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/4c0cec432a589e5d0ad03d44a2439c7d/2085463-D"
-        },
-        {
-          "label": "Planimetria 1",
-          "url": "https://documents.astalegale.net/file/0/854b3695748944b89c8ea35d94334011/2253128-B"
-        },
-        {
-          "label": "Planimetria 2",
-          "url": "https://documents.astalegale.net/file/0/f06b8fd664fdeed82fca408530b7a8b8/2253130-B"
-        },
-        {
-          "label": "Planimetria 3",
-          "url": "https://documents.astalegale.net/file/0/5258eba1447b3418d2189fbbaa510db3/2253129-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/7ee459b3df53e86efe3ef90059b7afe2/2085462-D",
-      "lat": 43.5649304,
-      "lng": 11.5305954,
-      "geoPrecision": "comune"
-    },
-    {
-      "id": "B2424332",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424332",
-      "img": "https://documents.astalegale.net/asta/0/B2424332?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Castiglion Fiorentino - Via Adua 168/170 - Strada regionale Umbro Casentinese 232-236",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Castiglion Fiorentino",
-      "indirizzo": "Via Adua 168/170 - Strada regionale Umbro Casentinese 232-236",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 175/2024 Tribunale Arezzo",
-      "dataAsta": "2026-09-24T11:00",
-      "dataAstaLabel": "24/09/2026 11:00",
-      "prezzoBase": 154820.7,
-      "tipologia": "Laboratorio artigiano Laboratorio Artigianale con resede esclusivo e terreno",
-      "categoria": "Terreno",
-      "offertaMinima": 116115.52,
-      "terminePresentazione": "23/09/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/47ffd1284647218d666d9c07f9586724/2402987-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/670f78b0722709c4f437fd6419746f10/2402988-B"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/20397435067329492d3ce5a53517b1d2/2402942-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/aa5efa088528959de565e91be7659e30/2402943-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/20397435067329492d3ce5a53517b1d2/2402942-B",
-      "lat": 43.341715,
-      "lng": 11.92378,
-      "geoPrecision": "comune"
-    },
     {
       "id": "B2427580",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2427580",
@@ -394,59 +87,6 @@
       "geoPrecision": "comune"
     },
     {
-      "id": "B2426145",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426145",
-      "img": "https://documents.astalegale.net/asta/0/B2426145?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Castiglion Fibocchi - Via Vecchia Aretina, 52029 Castiglion Fibocchi AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Castiglion Fibocchi",
-      "indirizzo": "Via Vecchia Aretina, 52029 Castiglion Fibocchi AR, Italia",
-      "procedura": "Procedure concorsuali / Concordato Preventivo omologato (CCI) 2/2025 Tribunale Arezzo",
-      "dataAsta": "2026-09-29T11:00",
-      "dataAstaLabel": "29/09/2026 11:00",
-      "prezzoBase": 1700000,
-      "tipologia": "Fabbricati industriali VENDITA GIUDIZIARIA - Porzione di complesso edilizio a destinazione d'uso artigianale-industriale posto nella prima periferia del Comune di Castiglion Fibocchi (AR), asservito dalla viabilità comunale di Via Vecchia Aretina. Per maggiori informazioni rivolgersi al dott.Gianluca Poggiaroni, gianluca@itasset.it, mob.338.6230816",
-      "categoria": "Industriale / Magazzino",
-      "offertaMinima": 1700000,
-      "terminePresentazione": "25/09/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/fe7f804e37d0232be0056ca1b2435c78/2417892-C"
-        },
-        {
-          "label": "Allegato catastale alla Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/75d4cef9de2bf5c0715c69c232417a9a/2417887-C"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/f502bc036b9e51f43a9c761550594eaf/2417888-C"
-        },
-        {
-          "label": "Aggiornamento catastale 3",
-          "url": "https://documents.astalegale.net/file/0/980643cd75563d160bf0b0f007fd5d2a/2417889-C"
-        },
-        {
-          "label": "Autorizzazione del Giudice 4",
-          "url": "https://documents.astalegale.net/file/0/79ec6acad9ff58834f4b045a0b302cae/2417890-C"
-        },
-        {
-          "label": "Corrispondenza immobiliare 5",
-          "url": "https://documents.astalegale.net/file/0/d3ffbdda870ca2d3e102c17843431f45/2417891-C"
-        },
-        {
-          "label": "Nota alla perizia di stima 6",
-          "url": "https://documents.astalegale.net/file/0/535ed59c49c8f762317b32b8e871df8b/2427261-D"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/75d4cef9de2bf5c0715c69c232417a9a/2417887-C",
-      "lat": 43.5279646,
-      "lng": 11.7631758,
-      "geoPrecision": "comune"
-    },
-    {
       "id": "B2426146",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426146",
       "img": "https://documents.astalegale.net/asta/0/B2426146?w=536&h=360&zl=14",
@@ -500,9 +140,9 @@
       "geoPrecision": "comune"
     },
     {
-      "id": "B2426147",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426147",
-      "img": "https://documents.astalegale.net/asta/0/B2426147?w=536&h=360&zl=14",
+      "id": "B2426148",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426148",
+      "img": "https://documents.astalegale.net/asta/0/B2426148?w=536&h=360&zl=14",
       "locationRaw": "Toscana > Arezzo > Castiglion Fibocchi - Via Vecchia Aretina, 52029 Castiglion Fibocchi AR, Italia",
       "regione": "Toscana",
       "provincia": "Arezzo",
@@ -511,10 +151,10 @@
       "procedura": "Procedure concorsuali / Concordato Preventivo omologato (CCI) 2/2025 Tribunale Arezzo",
       "dataAsta": "2026-09-29T11:00",
       "dataAstaLabel": "29/09/2026 11:00",
-      "prezzoBase": 1556000,
-      "tipologia": "Fabbricati industriali VENDITA GIUDIZIARIA - Porzione di complesso edilizio a destinazione d'uso artigianale-industriale posto nella prima periferia del Comune di Castiglion Fibocchi (AR), asservito dalla viabilità comunale di Via Vecchia Aretina.",
+      "prezzoBase": 366000,
+      "tipologia": "Fabbricati industriali VENDITA GIUDIZIARIA - Porzione di complesso edilizio a destinazione d'uso artigianale-industriale posto nella prima periferia del Comune di Castiglion Fibocchi (AR), asservito dalla viabilità comunale di Via Vecchia Aretina. Per maggiori informazioni rivolgersi al dott.Gianluca Poggiaroni gianluca@itasset.it - mob.338.6230816",
       "categoria": "Industriale / Magazzino",
-      "offertaMinima": 1556000,
+      "offertaMinima": 366000,
       "terminePresentazione": "25/09/2026 13:00",
       "modalitaGara": null,
       "documenti": [
@@ -553,9 +193,9 @@
       "geoPrecision": "comune"
     },
     {
-      "id": "B2426148",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426148",
-      "img": "https://documents.astalegale.net/asta/0/B2426148?w=536&h=360&zl=14",
+      "id": "B2426145",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426145",
+      "img": "https://documents.astalegale.net/asta/0/B2426145?w=536&h=360&zl=14",
       "locationRaw": "Toscana > Arezzo > Castiglion Fibocchi - Via Vecchia Aretina, 52029 Castiglion Fibocchi AR, Italia",
       "regione": "Toscana",
       "provincia": "Arezzo",
@@ -564,10 +204,63 @@
       "procedura": "Procedure concorsuali / Concordato Preventivo omologato (CCI) 2/2025 Tribunale Arezzo",
       "dataAsta": "2026-09-29T11:00",
       "dataAstaLabel": "29/09/2026 11:00",
-      "prezzoBase": 366000,
-      "tipologia": "Fabbricati industriali VENDITA GIUDIZIARIA - Porzione di complesso edilizio a destinazione d'uso artigianale-industriale posto nella prima periferia del Comune di Castiglion Fibocchi (AR), asservito dalla viabilità comunale di Via Vecchia Aretina. Per maggiori informazioni rivolgersi al dott.Gianluca Poggiaroni gianluca@itasset.it - mob.338.6230816",
+      "prezzoBase": 1700000,
+      "tipologia": "Fabbricati industriali VENDITA GIUDIZIARIA - Porzione di complesso edilizio a destinazione d'uso artigianale-industriale posto nella prima periferia del Comune di Castiglion Fibocchi (AR), asservito dalla viabilità comunale di Via Vecchia Aretina. Per maggiori informazioni rivolgersi al dott.Gianluca Poggiaroni, gianluca@itasset.it, mob.338.6230816",
       "categoria": "Industriale / Magazzino",
-      "offertaMinima": 366000,
+      "offertaMinima": 1700000,
+      "terminePresentazione": "25/09/2026 13:00",
+      "modalitaGara": null,
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/fe7f804e37d0232be0056ca1b2435c78/2417892-C"
+        },
+        {
+          "label": "Allegato catastale alla Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/75d4cef9de2bf5c0715c69c232417a9a/2417887-C"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/f502bc036b9e51f43a9c761550594eaf/2417888-C"
+        },
+        {
+          "label": "Aggiornamento catastale 3",
+          "url": "https://documents.astalegale.net/file/0/980643cd75563d160bf0b0f007fd5d2a/2417889-C"
+        },
+        {
+          "label": "Autorizzazione del Giudice 4",
+          "url": "https://documents.astalegale.net/file/0/79ec6acad9ff58834f4b045a0b302cae/2417890-C"
+        },
+        {
+          "label": "Corrispondenza immobiliare 5",
+          "url": "https://documents.astalegale.net/file/0/d3ffbdda870ca2d3e102c17843431f45/2417891-C"
+        },
+        {
+          "label": "Nota alla perizia di stima 6",
+          "url": "https://documents.astalegale.net/file/0/535ed59c49c8f762317b32b8e871df8b/2427261-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/75d4cef9de2bf5c0715c69c232417a9a/2417887-C",
+      "lat": 43.5279646,
+      "lng": 11.7631758,
+      "geoPrecision": "comune"
+    },
+    {
+      "id": "B2426147",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426147",
+      "img": "https://documents.astalegale.net/asta/0/B2426147?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Castiglion Fibocchi - Via Vecchia Aretina, 52029 Castiglion Fibocchi AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Castiglion Fibocchi",
+      "indirizzo": "Via Vecchia Aretina, 52029 Castiglion Fibocchi AR, Italia",
+      "procedura": "Procedure concorsuali / Concordato Preventivo omologato (CCI) 2/2025 Tribunale Arezzo",
+      "dataAsta": "2026-09-29T11:00",
+      "dataAstaLabel": "29/09/2026 11:00",
+      "prezzoBase": 1556000,
+      "tipologia": "Fabbricati industriali VENDITA GIUDIZIARIA - Porzione di complesso edilizio a destinazione d'uso artigianale-industriale posto nella prima periferia del Comune di Castiglion Fibocchi (AR), asservito dalla viabilità comunale di Via Vecchia Aretina.",
+      "categoria": "Industriale / Magazzino",
+      "offertaMinima": 1556000,
       "terminePresentazione": "25/09/2026 13:00",
       "modalitaGara": null,
       "documenti": [
@@ -745,7 +438,7 @@
       "dataAsta": "2026-09-30T11:00",
       "dataAstaLabel": "30/09/2026 11:00",
       "prezzoBase": 71000,
-      "tipologia": "Magazzino Capannone ad uso artigianale/ industriale facente parte di maggior fabbricato composto a piano terra da un unico ampio locale con piccolo wc e disimpegno e, al piano sovrastante, al quale si accede da scala in ferro, da locale ad uso ufficio",
+      "tipologia": "Magazzino Capannone ad uso artigianale/ industriale facente parte di maggior fabbricato composto a piano terra da un unico ampio locale con piccolo wc e disimpegno e, al piano sovrastante, al quale si accede da scala in ferro, da locale ad uso ufficio Prima Precedente 1 2 3 Successiva Ultima Precedente 1 2 3 Successiva Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
       "categoria": "Industriale / Magazzino",
       "offertaMinima": 53250,
       "terminePresentazione": "29/09/2026 13:00",
@@ -1084,7 +777,7 @@
       "dataAsta": "2026-10-08T09:00",
       "dataAstaLabel": "08/10/2026 09:00",
       "prezzoBase": 127692,
-      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà per la quota dell'intero su due appartamenti posti in Castiglion Fibocchi (AR) Loc. Gello Biscardo n. 4 della superficie commerciale rispettivamente di mq. 88,15 e 62,39 Prima Precedente 1 2 Precedente 1 2 Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
+      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà per la quota dell'intero su due appartamenti posti in Castiglion Fibocchi (AR) Loc. Gello Biscardo n. 4 della superficie commerciale rispettivamente di mq. 88,15 e 62,39 Prima Precedente 1 2 3 Precedente 1 2 3 Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
       "categoria": "Commerciale / Ufficio",
       "offertaMinima": 95769,
       "terminePresentazione": "07/10/2026 13:00",
@@ -1203,6 +896,51 @@
       "geoPrecision": "comune"
     },
     {
+      "id": "B2424027",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424027",
+      "img": "https://documents.astalegale.net/asta/0/B2424027?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Arezzo",
+      "indirizzo": "Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
+      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 55/2025 Tribunale Arezzo",
+      "dataAsta": "2026-10-13T09:00",
+      "dataAstaLabel": "13/10/2026 09:00",
+      "prezzoBase": 74480,
+      "tipologia": "Abitazione di tipo civile Unità immobiliare costituente porzione di un più ampio edificio a schiera, destinata alla civile abitazione, situata nel Comune di Arezzo, Viale S. Margherita 56, con ingresso indipendente esterno, posta al piano Terra, così composta: piano terra (H ml. 2.85) appartamento allo stato grezzo, privo di tramezzature interne, composto da un unico ampio locale",
+      "categoria": "Abitazione",
+      "offertaMinima": 55860,
+      "terminePresentazione": "12/10/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/3963642ddf7abf7539869f0de9174569/2412962-B"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/88bf21c977caad3d2dd8d04bb57a8d6c/2412964-B"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/98abb50554aa526a2cf3204e780ab7b4/2412966-B"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/3fba47b547fb21c897e27f32072c8595/2412965-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B",
+      "lat": 43.4721886,
+      "lng": 11.8793467,
+      "geoPrecision": "indirizzo"
+    },
+    {
       "id": "B2424028",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424028",
       "img": "https://documents.astalegale.net/asta/0/B2424028?w=536&h=360&zl=14",
@@ -1285,51 +1023,6 @@
         {
           "label": "Dati Catastali",
           "url": "https://documents.astalegale.net/file/0/efb1de522e7e0a5114f3b0ce3465fc18/2412950-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B",
-      "lat": 43.4721886,
-      "lng": 11.8793467,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2424027",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424027",
-      "img": "https://documents.astalegale.net/asta/0/B2424027?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 55/2025 Tribunale Arezzo",
-      "dataAsta": "2026-10-13T09:00",
-      "dataAstaLabel": "13/10/2026 09:00",
-      "prezzoBase": 74480,
-      "tipologia": "Abitazione di tipo civile Unità immobiliare costituente porzione di un più ampio edificio a schiera, destinata alla civile abitazione, situata nel Comune di Arezzo, Viale S. Margherita 56, con ingresso indipendente esterno, posta al piano Terra, così composta: piano terra (H ml. 2.85) appartamento allo stato grezzo, privo di tramezzature interne, composto da un unico ampio locale",
-      "categoria": "Abitazione",
-      "offertaMinima": 55860,
-      "terminePresentazione": "12/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/3963642ddf7abf7539869f0de9174569/2412962-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/88bf21c977caad3d2dd8d04bb57a8d6c/2412964-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/98abb50554aa526a2cf3204e780ab7b4/2412966-B"
-        },
-        {
-          "label": "Dati Catastali",
-          "url": "https://documents.astalegale.net/file/0/3fba47b547fb21c897e27f32072c8595/2412965-B"
         }
       ],
       "perizia": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B",
@@ -1971,7 +1664,7 @@
       "dataAsta": "2026-10-15T15:30",
       "dataAstaLabel": "15/10/2026 15:30",
       "prezzoBase": 40305,
-      "tipologia": "Fabbricato commerciale (ex Lotto 14) Piena proprietà di locale commerciale al piano primo, interno 51, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', composto da un vano destinato a negozio con antibagno e servizio igienico. Superficie commerciale: mq. 110,00 circa. 1 2 Successiva Ultima 1 2 Successiva Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
+      "tipologia": "Fabbricato commerciale (ex Lotto 14) Piena proprietà di locale commerciale al piano primo, interno 51, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', composto da un vano destinato a negozio con antibagno e servizio igienico. Superficie commerciale: mq. 110,00 circa.",
       "categoria": "Commerciale / Ufficio",
       "offertaMinima": 30228.75,
       "terminePresentazione": "14/10/2026 13:00",
@@ -2691,107 +2384,6 @@
       "geoPrecision": "indirizzo"
     },
     {
-      "id": "B2430295",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2430295",
-      "img": "https://documents.astalegale.net/asta/0/B2430295?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Via Gavardello, 61A",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Via Gavardello, 61A",
-      "procedura": "Procedure concorsuali / Liquidazione giudiziale (CCI) 48/2024 Tribunale Arezzo",
-      "dataAsta": "2026-10-22T17:00",
-      "dataAstaLabel": "22/10/2026 17:00",
-      "prezzoBase": 13400,
-      "tipologia": "Laboratorio artigiano VENDITA GIUDIZIARIA - Diritto di piena proprietà su un’unità immobiliare a destinazione laboratorio e magazzino sito in Comune di Arezzo Via del Gavardello n. 61/A.Nella vendita, oltre alla componente immobiliare è presente un gran numero di beni mobili. Per maggiori informazioni rivolgersi a dott.Andrea Petreni mob.3395274210 - andrea@itasset.it",
-      "categoria": "Industriale / Magazzino",
-      "offertaMinima": 100500,
-      "terminePresentazione": "19/10/2026 21:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/5eba08a222d9fac1b20090c6708c9c7d/2449225-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/66aff0e167285ba1ceb5ea9996a4b84c/2021489-C"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/e116ddaca6b6baf3fd8f9263bba60721/2021490-C"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/a01ce688de89b6abf8d43a81aa187f99/2021491-C"
-        },
-        {
-          "label": "Perizia 4",
-          "url": "https://documents.astalegale.net/file/0/24fa49f4a09de3235ff15db573ca0beb/2449224-B"
-        },
-        {
-          "label": "Documentazione fotografica BENI MOBILI 1 1",
-          "url": "https://documents.astalegale.net/file/0/1a78ac091e6cf9417d73f0b31c120e5a/2017824-C"
-        },
-        {
-          "label": "Documentazione fotografica BENI MOBILI 2 2",
-          "url": "https://documents.astalegale.net/file/0/944c1452eca35f7745a91aa8f14fdc3e/2017825-C"
-        },
-        {
-          "label": "Documentazione catastale- all. n1 alla Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/1afd9b94ca71e9d2c0cd2f6d3d34e2c5/2017826-C"
-        },
-        {
-          "label": "Titoli di provenienza - all n3 alla Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/db3558e19291ab5d3d6ca1d5d3922ba5/2017827-C"
-        },
-        {
-          "label": "Ispezioni ipotecarie ed altri documenti - all n.4 alla Perizia - parte 1° 3",
-          "url": "https://documents.astalegale.net/file/0/8c148ada04f57df38f27e2d50408736a/2017828-C"
-        },
-        {
-          "label": "Ispezioni ipotecarie ed altri documenti - all n.4 alla Perizia - parte 2° 4",
-          "url": "https://documents.astalegale.net/file/0/4e91b02575fac406dfa46c6fa86e029f/2017829-C"
-        },
-        {
-          "label": "Ispezioni ipotecarie ed altri documenti - all n.4 alla Perizia - parte 3° 5",
-          "url": "https://documents.astalegale.net/file/0/9fceaa490dd49ee9f592b4c0b82e872b/2017830-C"
-        },
-        {
-          "label": "Altro 1",
-          "url": "https://documents.astalegale.net/file/0/c1bfd71329b5d5eab478652f644fb7b7/2021493-C"
-        },
-        {
-          "label": "Altro 2",
-          "url": "https://documents.astalegale.net/file/0/71474904d09521b843b176b994cedcf1/2021492-C"
-        },
-        {
-          "label": "Altro 3",
-          "url": "https://documents.astalegale.net/file/0/7d9e44eea579f2aa1e2f1d7d5a5b4909/2021494-C"
-        },
-        {
-          "label": "Altro 4",
-          "url": "https://documents.astalegale.net/file/0/8d3396d1d92e1de9b60b714542368829/2021495-C"
-        },
-        {
-          "label": "Altro 5",
-          "url": "https://documents.astalegale.net/file/0/5391b0414da6be5fbed4fe70807e3052/2021496-C"
-        },
-        {
-          "label": "Altro 6",
-          "url": "https://documents.astalegale.net/file/0/3118ba389e44c8c8a3c93c1cf228351c/2021497-C"
-        },
-        {
-          "label": "Altro 7",
-          "url": "https://documents.astalegale.net/file/0/19344c91184316ab9a14a7f8998fccd6/2021498-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/66aff0e167285ba1ceb5ea9996a4b84c/2021489-C",
-      "lat": 43.4786,
-      "lng": 11.8617159,
-      "geoPrecision": "indirizzo"
-    },
-    {
       "id": "B2426751",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426751",
       "img": "https://documents.astalegale.net/asta/0/B2426751?w=536&h=360&zl=14",
@@ -2919,7 +2511,7 @@
       "dataAsta": "2026-10-28T15:00",
       "dataAstaLabel": "28/10/2026 15:00",
       "prezzoBase": 298400,
-      "tipologia": "Abitazione di tipo civile Piena proprietà di edificio che si sviluppa su due piani fuori terra, costituita da due unità vendute come unico lotto e situata in Montevarchi (AR), Frazione Rendola, Località “La Ramugina”, Via Rendola n. 77 e 78.Al piano terra è dislocata la porzione con destinazione ristorante: della consistenza di mq 190, mentre al primo piano si trova un appartamento della superficie commerciale di mq 97.",
+      "tipologia": "Abitazione di tipo civile Piena proprietà di edificio che si sviluppa su due piani fuori terra, costituita da due unità vendute come unico lotto e situata in Montevarchi (AR), Frazione Rendola, Località “La Ramugina”, Via Rendola n. 77 e 78.Al piano terra è dislocata la porzione con destinazione ristorante: della consistenza di mq 190, mentre al primo piano si trova un appartamento della superficie commerciale di mq 97. 1 2 3 Successiva Ultima 1 2 3 Successiva Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
       "categoria": "Commerciale / Ufficio",
       "offertaMinima": 223800,
       "terminePresentazione": "07/07/2026 13:00",
@@ -4009,6 +3601,51 @@
       "geoPrecision": "indirizzo"
     },
     {
+      "id": "B2434473",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2434473",
+      "img": "https://documents.astalegale.net/asta/0/B2434473?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Laterina Pergine Valdarno - Via Nazionale, 110, 52019 Ponticino AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Laterina Pergine Valdarno",
+      "indirizzo": "Via Nazionale, 110, 52019 Ponticino AR, Italia",
+      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 72/2024 Tribunale Arezzo",
+      "dataAsta": "2026-11-25T14:00",
+      "dataAstaLabel": "25/11/2026 14:00",
+      "prezzoBase": 49152,
+      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà 1/1 di compendio posto in Comune di Laterina Pergine Valdarno (Ar), Laterina, fraz. Ponticino, via Nazionale n. 110, costituito da fabbricato di civile abitazione ubicato su fronte strada, disposto su tre piani fuori terra oltre sottotetto e resede esclusivo sul retro, attualmente composto da ingresso, soggiorno e cucina al piano terra.",
+      "categoria": "Abitazione",
+      "offertaMinima": 36864,
+      "terminePresentazione": "24/11/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/b45d85b08ab0daa863bd3286cadbce95/2490040-B"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/daf18df5213c92d91dbf72b2b1330f45/2490039-B"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/d9a8292d62027746e418473e2fc05bd3/2223241-B"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/bb86ed0cc581f8e743d0da90386bb2ab/2223243-B"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/6a7c8254f41862893f401a4b4cd5776c/2223242-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/d9a8292d62027746e418473e2fc05bd3/2223241-B",
+      "lat": 43.4945948,
+      "lng": 11.6350017,
+      "geoPrecision": "indirizzo"
+    },
+    {
       "id": "B2423435",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2423435",
       "img": "https://documents.astalegale.net/asta/0/B2423435?w=536&h=360&zl=14",
@@ -4055,6 +3692,47 @@
       "perizia": "https://documents.astalegale.net/file/0/a3ce696f75c921170c69033dcfb6938b/2462463-B",
       "lat": 43.4636811,
       "lng": 11.8563096,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2435034",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2435034",
+      "img": "https://documents.astalegale.net/asta/0/B2435034?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Montevarchi - Viale Armando Diaz n. 95",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Montevarchi",
+      "indirizzo": "Viale Armando Diaz n. 95",
+      "procedura": "Esecuzioni civili 2/2023 Tribunale Arezzo",
+      "dataAsta": "2026-12-01T09:00",
+      "dataAstaLabel": "01/12/2026 09:00",
+      "prezzoBase": 123338.5,
+      "tipologia": "Abitazione di tipo civile in Montevarchi, Viale Armando Diaz n. 95, al piano secondo di una palazzina bifamilare, un appartamento ad uso di civile abitazione composto da ingresso, cucina con balcone, pranzo, sala, studio e due camere, vani ampi e disimpegnati.",
+      "categoria": "Abitazione",
+      "offertaMinima": 92503.87,
+      "terminePresentazione": "30/11/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/1b782c56aacafc6ae0c558034691db58/2489704-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/49c63384eeabaaf48ca3e0873cb73c6c/2489703-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/811b83208805498877e609a58ee127bd/2381056-B"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/1d513173ec5c52492ab90db8a4d3b0b9/2381055-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/811b83208805498877e609a58ee127bd/2381056-B",
+      "lat": 43.5271954,
+      "lng": 11.5673746,
       "geoPrecision": "indirizzo"
     },
     {
@@ -4352,6 +4030,119 @@
       "geoPrecision": "comune"
     },
     {
+      "id": "B2432775",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432775",
+      "img": "https://documents.astalegale.net/asta/0/B2432775?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Loro Ciuffenna",
+      "indirizzo": "Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "procedura": "Esecuzioni civili 96/2020 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T10:00",
+      "dataAstaLabel": "16/12/2026 10:00",
+      "prezzoBase": 39498.94,
+      "tipologia": "Abitazione di tipo civile quota indivisa di comproprietà su una porzione di fabbricato urbano, consistente in un appartamento per civile abitazione posto al piano terreno.",
+      "categoria": "Terreno",
+      "offertaMinima": 29624.21,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/bca1ecef19a5bf71ba6425f9bad18263/2483569-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/514ec97a08a1e297204b50ae68b8e9b5/2483568-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/2f7e7adba68cc2d041921e9aa57025a9/2483571-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/93559c6647a8c0a4949bd8483924ec4c/2483572-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/d14626af66d9f470855b08f639876880/2483573-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/b151a0bd13f69ac8abe43cd48b73fbfe/2483574-D"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/8f56b4fe2a1b72f3366307a312967174/2483575-D"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/565fec247db9dde524993fb834347574/2483576-D"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/1f7927d874804fa490683951750b336b/2483577-D"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/a03e9f2db449c4b19ced26555f81b05a/2483578-D"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/233bebbbb5722039f59aba0961754acf/2483579-D"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/224470f4a8fe1c127b44f01e9ba85504/2483580-D"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/dc194f7972602b2cf3ab5cde40ba9d9a/2483581-D"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/60cce2b95f68d0842b1bf3cba993445e/2483582-D"
+        },
+        {
+          "label": "Perizia 14",
+          "url": "https://documents.astalegale.net/file/0/060d145deca27af83f8f5b218901ee34/2483583-D"
+        },
+        {
+          "label": "Perizia 15",
+          "url": "https://documents.astalegale.net/file/0/619764444048eaa6f9a5721b167aa06e/2483584-D"
+        },
+        {
+          "label": "Perizia 16",
+          "url": "https://documents.astalegale.net/file/0/6c667910cabd7c3a3e316e652d515151/2483585-D"
+        },
+        {
+          "label": "Perizia 17",
+          "url": "https://documents.astalegale.net/file/0/c743a9eeab77bd596eb3c0f637f82d1c/2483586-D"
+        },
+        {
+          "label": "Perizia 18",
+          "url": "https://documents.astalegale.net/file/0/15af6aeac5b06288a4374979e36618ab/2483587-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/48244367d4fb285636b1dfcfe7ada8ad/2483566-D"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/cdbb9aba6bb112525b4b0981670e1954/2483567-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D",
+      "lat": 43.5969978,
+      "lng": 11.6304557,
+      "geoPrecision": "indirizzo"
+    },
+    {
       "id": "B2433114",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2433114",
       "img": "https://documents.astalegale.net/asta/0/B2433114?w=536&h=360&zl=14",
@@ -4397,6 +4188,450 @@
       "geoPrecision": "indirizzo"
     },
     {
+      "id": "B2432776",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432776",
+      "img": "https://documents.astalegale.net/asta/0/B2432776?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Loro Ciuffenna",
+      "indirizzo": "Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "procedura": "Esecuzioni civili 96/2020 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T10:15",
+      "dataAstaLabel": "16/12/2026 10:15",
+      "prezzoBase": 41077.36,
+      "tipologia": "Abitazione di tipo civile quota indivisa di comproprietà su una porzione di fabbricato consistente in un appartamento per civile abitazione, posto al piano terreno",
+      "categoria": "Terreno",
+      "offertaMinima": 30808.02,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/bca1ecef19a5bf71ba6425f9bad18263/2483569-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/514ec97a08a1e297204b50ae68b8e9b5/2483568-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/2f7e7adba68cc2d041921e9aa57025a9/2483571-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/93559c6647a8c0a4949bd8483924ec4c/2483572-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/d14626af66d9f470855b08f639876880/2483573-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/b151a0bd13f69ac8abe43cd48b73fbfe/2483574-D"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/8f56b4fe2a1b72f3366307a312967174/2483575-D"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/565fec247db9dde524993fb834347574/2483576-D"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/1f7927d874804fa490683951750b336b/2483577-D"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/a03e9f2db449c4b19ced26555f81b05a/2483578-D"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/233bebbbb5722039f59aba0961754acf/2483579-D"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/224470f4a8fe1c127b44f01e9ba85504/2483580-D"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/dc194f7972602b2cf3ab5cde40ba9d9a/2483581-D"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/60cce2b95f68d0842b1bf3cba993445e/2483582-D"
+        },
+        {
+          "label": "Perizia 14",
+          "url": "https://documents.astalegale.net/file/0/060d145deca27af83f8f5b218901ee34/2483583-D"
+        },
+        {
+          "label": "Perizia 15",
+          "url": "https://documents.astalegale.net/file/0/619764444048eaa6f9a5721b167aa06e/2483584-D"
+        },
+        {
+          "label": "Perizia 16",
+          "url": "https://documents.astalegale.net/file/0/6c667910cabd7c3a3e316e652d515151/2483585-D"
+        },
+        {
+          "label": "Perizia 17",
+          "url": "https://documents.astalegale.net/file/0/c743a9eeab77bd596eb3c0f637f82d1c/2483586-D"
+        },
+        {
+          "label": "Perizia 18",
+          "url": "https://documents.astalegale.net/file/0/15af6aeac5b06288a4374979e36618ab/2483587-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D",
+      "lat": 43.5969978,
+      "lng": 11.6304557,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2432777",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432777",
+      "img": "https://documents.astalegale.net/asta/0/B2432777?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Loro Ciuffenna",
+      "indirizzo": "Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "procedura": "Esecuzioni civili 96/2020 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T10:30",
+      "dataAstaLabel": "16/12/2026 10:30",
+      "prezzoBase": 41600,
+      "tipologia": "Abitazione di tipo civile piena ed esclusiva proprietà su una porzione di fabbricato urbano, consistente in un appartamento per civile abitazione posto su due livelli (piano primo e secondo).",
+      "categoria": "Abitazione",
+      "offertaMinima": 31200,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/bca1ecef19a5bf71ba6425f9bad18263/2483569-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/514ec97a08a1e297204b50ae68b8e9b5/2483568-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/2f7e7adba68cc2d041921e9aa57025a9/2483571-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/93559c6647a8c0a4949bd8483924ec4c/2483572-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/d14626af66d9f470855b08f639876880/2483573-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/b151a0bd13f69ac8abe43cd48b73fbfe/2483574-D"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/8f56b4fe2a1b72f3366307a312967174/2483575-D"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/565fec247db9dde524993fb834347574/2483576-D"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/1f7927d874804fa490683951750b336b/2483577-D"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/a03e9f2db449c4b19ced26555f81b05a/2483578-D"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/233bebbbb5722039f59aba0961754acf/2483579-D"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/224470f4a8fe1c127b44f01e9ba85504/2483580-D"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/dc194f7972602b2cf3ab5cde40ba9d9a/2483581-D"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/60cce2b95f68d0842b1bf3cba993445e/2483582-D"
+        },
+        {
+          "label": "Perizia 14",
+          "url": "https://documents.astalegale.net/file/0/060d145deca27af83f8f5b218901ee34/2483583-D"
+        },
+        {
+          "label": "Perizia 15",
+          "url": "https://documents.astalegale.net/file/0/619764444048eaa6f9a5721b167aa06e/2483584-D"
+        },
+        {
+          "label": "Perizia 16",
+          "url": "https://documents.astalegale.net/file/0/6c667910cabd7c3a3e316e652d515151/2483585-D"
+        },
+        {
+          "label": "Perizia 17",
+          "url": "https://documents.astalegale.net/file/0/c743a9eeab77bd596eb3c0f637f82d1c/2483586-D"
+        },
+        {
+          "label": "Perizia 18",
+          "url": "https://documents.astalegale.net/file/0/15af6aeac5b06288a4374979e36618ab/2483587-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/144408c77cff373e2f4d29fde39c9b83/2483588-D"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/cc8939a538cf71b080999d5c2859f9ff/2483589-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D",
+      "lat": 43.5969978,
+      "lng": 11.6304557,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2432778",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432778",
+      "img": "https://documents.astalegale.net/asta/0/B2432778?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Loro Ciuffenna",
+      "indirizzo": "Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "procedura": "Esecuzioni civili 96/2020 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T10:45",
+      "dataAstaLabel": "16/12/2026 10:45",
+      "prezzoBase": 41600,
+      "tipologia": "Abitazione di tipo civile piena ed esclusiva proprietà su una porzione di fabbricato consistente in un appartamento per civile abitazione, articolantesi su due livelli (piano primo e secondo)",
+      "categoria": "Abitazione",
+      "offertaMinima": 31200,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/bca1ecef19a5bf71ba6425f9bad18263/2483569-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/514ec97a08a1e297204b50ae68b8e9b5/2483568-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/2f7e7adba68cc2d041921e9aa57025a9/2483571-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/93559c6647a8c0a4949bd8483924ec4c/2483572-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/d14626af66d9f470855b08f639876880/2483573-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/b151a0bd13f69ac8abe43cd48b73fbfe/2483574-D"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/8f56b4fe2a1b72f3366307a312967174/2483575-D"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/565fec247db9dde524993fb834347574/2483576-D"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/1f7927d874804fa490683951750b336b/2483577-D"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/a03e9f2db449c4b19ced26555f81b05a/2483578-D"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/233bebbbb5722039f59aba0961754acf/2483579-D"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/224470f4a8fe1c127b44f01e9ba85504/2483580-D"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/dc194f7972602b2cf3ab5cde40ba9d9a/2483581-D"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/60cce2b95f68d0842b1bf3cba993445e/2483582-D"
+        },
+        {
+          "label": "Perizia 14",
+          "url": "https://documents.astalegale.net/file/0/060d145deca27af83f8f5b218901ee34/2483583-D"
+        },
+        {
+          "label": "Perizia 15",
+          "url": "https://documents.astalegale.net/file/0/619764444048eaa6f9a5721b167aa06e/2483584-D"
+        },
+        {
+          "label": "Perizia 16",
+          "url": "https://documents.astalegale.net/file/0/6c667910cabd7c3a3e316e652d515151/2483585-D"
+        },
+        {
+          "label": "Perizia 17",
+          "url": "https://documents.astalegale.net/file/0/c743a9eeab77bd596eb3c0f637f82d1c/2483586-D"
+        },
+        {
+          "label": "Perizia 18",
+          "url": "https://documents.astalegale.net/file/0/15af6aeac5b06288a4374979e36618ab/2483587-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/d294ba82c86ee805943621cdcfdb0af9/2483590-D"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/5164a75a33bcf9b74be81c123c7f75a4/2483591-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D",
+      "lat": 43.5969978,
+      "lng": 11.6304557,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2432779",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432779",
+      "img": "https://documents.astalegale.net/asta/0/B2432779?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Loro Ciuffenna",
+      "indirizzo": "Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "procedura": "Esecuzioni civili 96/2020 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T11:00",
+      "dataAstaLabel": "16/12/2026 11:00",
+      "prezzoBase": 59649.34,
+      "tipologia": "Abitazione di tipo civile quota indivisa di comproprietà su una porzione di fabbricato consistente in un appartamento per civile abitazione, posto al piano terreno.",
+      "categoria": "Terreno",
+      "offertaMinima": 44737.01,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/bca1ecef19a5bf71ba6425f9bad18263/2483569-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/514ec97a08a1e297204b50ae68b8e9b5/2483568-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/2f7e7adba68cc2d041921e9aa57025a9/2483571-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/93559c6647a8c0a4949bd8483924ec4c/2483572-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/d14626af66d9f470855b08f639876880/2483573-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/b151a0bd13f69ac8abe43cd48b73fbfe/2483574-D"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/8f56b4fe2a1b72f3366307a312967174/2483575-D"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/565fec247db9dde524993fb834347574/2483576-D"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/1f7927d874804fa490683951750b336b/2483577-D"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/a03e9f2db449c4b19ced26555f81b05a/2483578-D"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/233bebbbb5722039f59aba0961754acf/2483579-D"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/224470f4a8fe1c127b44f01e9ba85504/2483580-D"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/dc194f7972602b2cf3ab5cde40ba9d9a/2483581-D"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/60cce2b95f68d0842b1bf3cba993445e/2483582-D"
+        },
+        {
+          "label": "Perizia 14",
+          "url": "https://documents.astalegale.net/file/0/060d145deca27af83f8f5b218901ee34/2483583-D"
+        },
+        {
+          "label": "Perizia 15",
+          "url": "https://documents.astalegale.net/file/0/619764444048eaa6f9a5721b167aa06e/2483584-D"
+        },
+        {
+          "label": "Perizia 16",
+          "url": "https://documents.astalegale.net/file/0/6c667910cabd7c3a3e316e652d515151/2483585-D"
+        },
+        {
+          "label": "Perizia 17",
+          "url": "https://documents.astalegale.net/file/0/c743a9eeab77bd596eb3c0f637f82d1c/2483586-D"
+        },
+        {
+          "label": "Perizia 18",
+          "url": "https://documents.astalegale.net/file/0/15af6aeac5b06288a4374979e36618ab/2483587-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/f080d858fc8477868653e82789780d36/2483592-D"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/d351bdf4697b28f927efa819b4dff558/2483593-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D",
+      "lat": 43.5969978,
+      "lng": 11.6304557,
+      "geoPrecision": "indirizzo"
+    },
+    {
       "id": "B2433115",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2433115",
       "img": "https://documents.astalegale.net/asta/0/B2433115?w=536&h=360&zl=14",
@@ -4439,6 +4674,571 @@
       "perizia": "https://documents.astalegale.net/file/0/37eebd3d0d04aa95f0bd8682c843e706/2479156-D",
       "lat": 43.4582651,
       "lng": 11.901575,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2432780",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432780",
+      "img": "https://documents.astalegale.net/asta/0/B2432780?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Loro Ciuffenna",
+      "indirizzo": "Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "procedura": "Esecuzioni civili 96/2020 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T11:15",
+      "dataAstaLabel": "16/12/2026 11:15",
+      "prezzoBase": 45723.07,
+      "tipologia": "Abitazione di tipo civile quota indivisa di comproprietà su una porzione di fabbricato consistente in un appartamento per civile abitazione al piano terreno",
+      "categoria": "Terreno",
+      "offertaMinima": 34292.3,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/bca1ecef19a5bf71ba6425f9bad18263/2483569-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/514ec97a08a1e297204b50ae68b8e9b5/2483568-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/2f7e7adba68cc2d041921e9aa57025a9/2483571-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/93559c6647a8c0a4949bd8483924ec4c/2483572-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/d14626af66d9f470855b08f639876880/2483573-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/b151a0bd13f69ac8abe43cd48b73fbfe/2483574-D"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/8f56b4fe2a1b72f3366307a312967174/2483575-D"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/565fec247db9dde524993fb834347574/2483576-D"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/1f7927d874804fa490683951750b336b/2483577-D"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/a03e9f2db449c4b19ced26555f81b05a/2483578-D"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/233bebbbb5722039f59aba0961754acf/2483579-D"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/224470f4a8fe1c127b44f01e9ba85504/2483580-D"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/dc194f7972602b2cf3ab5cde40ba9d9a/2483581-D"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/60cce2b95f68d0842b1bf3cba993445e/2483582-D"
+        },
+        {
+          "label": "Perizia 14",
+          "url": "https://documents.astalegale.net/file/0/060d145deca27af83f8f5b218901ee34/2483583-D"
+        },
+        {
+          "label": "Perizia 15",
+          "url": "https://documents.astalegale.net/file/0/619764444048eaa6f9a5721b167aa06e/2483584-D"
+        },
+        {
+          "label": "Perizia 16",
+          "url": "https://documents.astalegale.net/file/0/6c667910cabd7c3a3e316e652d515151/2483585-D"
+        },
+        {
+          "label": "Perizia 17",
+          "url": "https://documents.astalegale.net/file/0/c743a9eeab77bd596eb3c0f637f82d1c/2483586-D"
+        },
+        {
+          "label": "Perizia 18",
+          "url": "https://documents.astalegale.net/file/0/15af6aeac5b06288a4374979e36618ab/2483587-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/5013294437e9ea3b9cd0f5ac3b6759e4/2483594-D"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/6206c6c5387b34b33245ff70d54a6187/2483595-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D",
+      "lat": 43.5969978,
+      "lng": 11.6304557,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2432781",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432781",
+      "img": "https://documents.astalegale.net/asta/0/B2432781?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Loro Ciuffenna",
+      "indirizzo": "Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "procedura": "Esecuzioni civili 96/2020 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T11:30",
+      "dataAstaLabel": "16/12/2026 11:30",
+      "prezzoBase": 188800,
+      "tipologia": "Fabbricato commerciale piena ed esclusiva proprietà su una porzione di fabbricato consistente in un'unità immobiliare con destinazione commerciale ad uso ristorante, posta al piano terreno, con terreni di pertinenza.",
+      "categoria": "Terreno",
+      "offertaMinima": 141600,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/bca1ecef19a5bf71ba6425f9bad18263/2483569-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/514ec97a08a1e297204b50ae68b8e9b5/2483568-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/2f7e7adba68cc2d041921e9aa57025a9/2483571-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/93559c6647a8c0a4949bd8483924ec4c/2483572-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/d14626af66d9f470855b08f639876880/2483573-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/b151a0bd13f69ac8abe43cd48b73fbfe/2483574-D"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/8f56b4fe2a1b72f3366307a312967174/2483575-D"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/565fec247db9dde524993fb834347574/2483576-D"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/1f7927d874804fa490683951750b336b/2483577-D"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/a03e9f2db449c4b19ced26555f81b05a/2483578-D"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/233bebbbb5722039f59aba0961754acf/2483579-D"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/224470f4a8fe1c127b44f01e9ba85504/2483580-D"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/dc194f7972602b2cf3ab5cde40ba9d9a/2483581-D"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/60cce2b95f68d0842b1bf3cba993445e/2483582-D"
+        },
+        {
+          "label": "Perizia 14",
+          "url": "https://documents.astalegale.net/file/0/060d145deca27af83f8f5b218901ee34/2483583-D"
+        },
+        {
+          "label": "Perizia 15",
+          "url": "https://documents.astalegale.net/file/0/619764444048eaa6f9a5721b167aa06e/2483584-D"
+        },
+        {
+          "label": "Perizia 16",
+          "url": "https://documents.astalegale.net/file/0/6c667910cabd7c3a3e316e652d515151/2483585-D"
+        },
+        {
+          "label": "Perizia 17",
+          "url": "https://documents.astalegale.net/file/0/c743a9eeab77bd596eb3c0f637f82d1c/2483586-D"
+        },
+        {
+          "label": "Perizia 18",
+          "url": "https://documents.astalegale.net/file/0/15af6aeac5b06288a4374979e36618ab/2483587-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/291d0f7d219145ced4159a1804334d0e/2483596-D"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/7199c59d051982808fdad3ebb649ef64/2483597-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D",
+      "lat": 43.5969978,
+      "lng": 11.6304557,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2432782",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432782",
+      "img": "https://documents.astalegale.net/asta/0/B2432782?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Loro Ciuffenna",
+      "indirizzo": "Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "procedura": "Esecuzioni civili 96/2020 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T11:45",
+      "dataAstaLabel": "16/12/2026 11:45",
+      "prezzoBase": 47614.18,
+      "tipologia": "Abitazione di tipo civile quota indivisa di comproprietà su una porzione di fabbricato consistente in un appartamento per civile abitazione, articolantesi su due livelli (piano primo e secondo).",
+      "categoria": "Abitazione",
+      "offertaMinima": 35710.64,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/bca1ecef19a5bf71ba6425f9bad18263/2483569-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/514ec97a08a1e297204b50ae68b8e9b5/2483568-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/2f7e7adba68cc2d041921e9aa57025a9/2483571-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/93559c6647a8c0a4949bd8483924ec4c/2483572-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/d14626af66d9f470855b08f639876880/2483573-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/b151a0bd13f69ac8abe43cd48b73fbfe/2483574-D"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/8f56b4fe2a1b72f3366307a312967174/2483575-D"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/565fec247db9dde524993fb834347574/2483576-D"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/1f7927d874804fa490683951750b336b/2483577-D"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/a03e9f2db449c4b19ced26555f81b05a/2483578-D"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/233bebbbb5722039f59aba0961754acf/2483579-D"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/224470f4a8fe1c127b44f01e9ba85504/2483580-D"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/dc194f7972602b2cf3ab5cde40ba9d9a/2483581-D"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/60cce2b95f68d0842b1bf3cba993445e/2483582-D"
+        },
+        {
+          "label": "Perizia 14",
+          "url": "https://documents.astalegale.net/file/0/060d145deca27af83f8f5b218901ee34/2483583-D"
+        },
+        {
+          "label": "Perizia 15",
+          "url": "https://documents.astalegale.net/file/0/619764444048eaa6f9a5721b167aa06e/2483584-D"
+        },
+        {
+          "label": "Perizia 16",
+          "url": "https://documents.astalegale.net/file/0/6c667910cabd7c3a3e316e652d515151/2483585-D"
+        },
+        {
+          "label": "Perizia 17",
+          "url": "https://documents.astalegale.net/file/0/c743a9eeab77bd596eb3c0f637f82d1c/2483586-D"
+        },
+        {
+          "label": "Perizia 18",
+          "url": "https://documents.astalegale.net/file/0/15af6aeac5b06288a4374979e36618ab/2483587-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/972cf7892f28c3c7c04305f74c347014/2483598-D"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/e9b0a4e5a501aeff0c7af820a3063d8e/2483599-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D",
+      "lat": 43.5969978,
+      "lng": 11.6304557,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2432783",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432783",
+      "img": "https://documents.astalegale.net/asta/0/B2432783?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Loro Ciuffenna",
+      "indirizzo": "Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "procedura": "Esecuzioni civili 96/2020 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T12:00",
+      "dataAstaLabel": "16/12/2026 12:00",
+      "prezzoBase": 54710.03,
+      "tipologia": "Abitazione di tipo civile quota indivisa di comproprietà su una porzione di fabbricato consistente in un appartamento per civile abitazione, articolantesi su due livelli (piano primo e secondo).",
+      "categoria": "Abitazione",
+      "offertaMinima": 41032.52,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/bca1ecef19a5bf71ba6425f9bad18263/2483569-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/514ec97a08a1e297204b50ae68b8e9b5/2483568-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/2f7e7adba68cc2d041921e9aa57025a9/2483571-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/93559c6647a8c0a4949bd8483924ec4c/2483572-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/d14626af66d9f470855b08f639876880/2483573-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/b151a0bd13f69ac8abe43cd48b73fbfe/2483574-D"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/8f56b4fe2a1b72f3366307a312967174/2483575-D"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/565fec247db9dde524993fb834347574/2483576-D"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/1f7927d874804fa490683951750b336b/2483577-D"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/a03e9f2db449c4b19ced26555f81b05a/2483578-D"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/233bebbbb5722039f59aba0961754acf/2483579-D"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/224470f4a8fe1c127b44f01e9ba85504/2483580-D"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/dc194f7972602b2cf3ab5cde40ba9d9a/2483581-D"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/60cce2b95f68d0842b1bf3cba993445e/2483582-D"
+        },
+        {
+          "label": "Perizia 14",
+          "url": "https://documents.astalegale.net/file/0/060d145deca27af83f8f5b218901ee34/2483583-D"
+        },
+        {
+          "label": "Perizia 15",
+          "url": "https://documents.astalegale.net/file/0/619764444048eaa6f9a5721b167aa06e/2483584-D"
+        },
+        {
+          "label": "Perizia 16",
+          "url": "https://documents.astalegale.net/file/0/6c667910cabd7c3a3e316e652d515151/2483585-D"
+        },
+        {
+          "label": "Perizia 17",
+          "url": "https://documents.astalegale.net/file/0/c743a9eeab77bd596eb3c0f637f82d1c/2483586-D"
+        },
+        {
+          "label": "Perizia 18",
+          "url": "https://documents.astalegale.net/file/0/15af6aeac5b06288a4374979e36618ab/2483587-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/27df2b5b94813f8140e15ab7dd62513c/2483600-D"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/9c345335408d7a16c058e8677747ea5c/2483601-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D",
+      "lat": 43.5969978,
+      "lng": 11.6304557,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2432784",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432784",
+      "img": "https://documents.astalegale.net/asta/0/B2432784?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Loro Ciuffenna",
+      "indirizzo": "Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia",
+      "procedura": "Esecuzioni civili 96/2020 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T12:15",
+      "dataAstaLabel": "16/12/2026 12:15",
+      "prezzoBase": 25500,
+      "tipologia": "Magazzino diritto di piena ed esclusiva proprietà su una porzione di fabbricato consistente in un'unità immobiliare con destinazione accessoria, ad uso magazzino/deposito.",
+      "categoria": "Industriale / Magazzino",
+      "offertaMinima": 19125,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/bca1ecef19a5bf71ba6425f9bad18263/2483569-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/514ec97a08a1e297204b50ae68b8e9b5/2483568-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/2f7e7adba68cc2d041921e9aa57025a9/2483571-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/93559c6647a8c0a4949bd8483924ec4c/2483572-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/d14626af66d9f470855b08f639876880/2483573-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/b151a0bd13f69ac8abe43cd48b73fbfe/2483574-D"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/8f56b4fe2a1b72f3366307a312967174/2483575-D"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/565fec247db9dde524993fb834347574/2483576-D"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/1f7927d874804fa490683951750b336b/2483577-D"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/a03e9f2db449c4b19ced26555f81b05a/2483578-D"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/233bebbbb5722039f59aba0961754acf/2483579-D"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/224470f4a8fe1c127b44f01e9ba85504/2483580-D"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/dc194f7972602b2cf3ab5cde40ba9d9a/2483581-D"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/60cce2b95f68d0842b1bf3cba993445e/2483582-D"
+        },
+        {
+          "label": "Perizia 14",
+          "url": "https://documents.astalegale.net/file/0/060d145deca27af83f8f5b218901ee34/2483583-D"
+        },
+        {
+          "label": "Perizia 15",
+          "url": "https://documents.astalegale.net/file/0/619764444048eaa6f9a5721b167aa06e/2483584-D"
+        },
+        {
+          "label": "Perizia 16",
+          "url": "https://documents.astalegale.net/file/0/6c667910cabd7c3a3e316e652d515151/2483585-D"
+        },
+        {
+          "label": "Perizia 17",
+          "url": "https://documents.astalegale.net/file/0/c743a9eeab77bd596eb3c0f637f82d1c/2483586-D"
+        },
+        {
+          "label": "Perizia 18",
+          "url": "https://documents.astalegale.net/file/0/15af6aeac5b06288a4374979e36618ab/2483587-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/ad0def952b187ecad2504092034ea1ac/2483603-D"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/c036a32187a60165f3db83a552e728e2/2483602-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dd3aed6c8a7a9f245bb52d6dc94d21be/2483570-D",
+      "lat": 43.5969978,
+      "lng": 11.6304557,
       "geoPrecision": "indirizzo"
     },
     {

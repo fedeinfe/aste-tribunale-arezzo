@@ -673,5 +673,15 @@
     "lat": 43.7255209,
     "lng": 11.8939339,
     "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Montevarchi - Viale Armando Diaz n. 95": {
+    "lat": 43.5271954,
+    "lng": 11.5673746,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Loro Ciuffenna - Via Ferriera, 4, 52024 Loro Ciuffenna AR, Italia": {
+    "lat": 43.5969978,
+    "lng": 11.6304557,
+    "precision": "indirizzo"
   }
 }
