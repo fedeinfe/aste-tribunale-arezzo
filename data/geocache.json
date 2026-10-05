@@ -683,5 +683,40 @@
     "lat": 43.5969978,
     "lng": 11.6304557,
     "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Via Molinara, 52100 Arezzo AR, Italia": {
+    "lat": 43.4671563,
+    "lng": 11.8251439,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Ponte alla Nave": {
+    "lat": 43.4453988,
+    "lng": 11.812713,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Lucignano - via del Calcione 22/g": {
+    "lat": 43.2744629,
+    "lng": 11.7459997,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Monte San Savino - Località Verniana - via La Costa snc": {
+    "lat": 43.3434908,
+    "lng": 11.6993695,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Monte San Savino - località Verniana - via la Costa snc": {
+    "lat": 43.3434908,
+    "lng": 11.6993695,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Arezzo - Via Pier Ludovico Occhini n.6 Arezzo": {
+    "lat": 43.4628957,
+    "lng": 11.8781675,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Arezzo - Via del Gavardello, 61/A, 52100 Arezzo AR, Italia": {
+    "lat": 43.4786,
+    "lng": 11.8617159,
+    "precision": "indirizzo"
   }
 }
