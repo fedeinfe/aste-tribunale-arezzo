@@ -1,442 +1,9 @@
 {
-  "scrapedAt": "2026-10-05T12:03:34.305Z",
+  "scrapedAt": "2026-10-12T12:46:32.258Z",
   "source": "https://www.tribunale.arezzo.giustizia.it/it/Aste/SearchImmobili",
-  "count": 98,
-  "geocoded": 98,
+  "count": 102,
+  "geocoded": 102,
   "items": [
-    {
-      "id": "B2426296",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426296",
-      "img": "https://documents.astalegale.net/asta/0/B2426296?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Loc. Sant'Anastasio 9",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Loc. Sant'Anastasio 9",
-      "procedura": "Esecuzioni civili 45/2017 Tribunale Arezzo",
-      "dataAsta": "2026-10-06T09:00",
-      "dataAstaLabel": "06/10/2026 09:00",
-      "prezzoBase": 115200,
-      "tipologia": "Abitazione di tipo civile Porzione di fabbricato ad uso abitazione con resede a comune non pignorato",
-      "categoria": "Abitazione",
-      "offertaMinima": 86400,
-      "terminePresentazione": "05/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/c8402ef4b491fd7c25424dbe316ffbf0/2419076-C"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/70d1cc299c28272ae3aeae62ab2c9427/2419075-C"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/186d0e69120022e65ca4ed2b92f4295f/2308864-D"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/c6282f8ea15045d804d50ebdb127a351/2048512-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/186d0e69120022e65ca4ed2b92f4295f/2308864-D",
-      "lat": 43.4212687,
-      "lng": 11.8532349,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2424400",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424400",
-      "img": "https://documents.astalegale.net/asta/0/B2424400?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Località Rigutino Ovest, 52100 Arezzo AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Località Rigutino Ovest, 52100 Arezzo AR, Italia",
-      "procedura": "Esecuzioni civili 5/2021 Tribunale Arezzo",
-      "dataAsta": "2026-10-07T10:00",
-      "dataAstaLabel": "07/10/2026 10:00",
-      "prezzoBase": 35232.16,
-      "tipologia": "Magazzino piena proprietà su edificio ad uso magazzino ed artigianale al piano terra",
-      "categoria": "Industriale / Magazzino",
-      "offertaMinima": 26424.12,
-      "terminePresentazione": "06/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/48ab564f809429f621c95cae8be4030b/2408703-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/c33518b23bf1015eab2fe9daa9a439e4/2408702-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/0d618012506711c29e6916103dd90576/2186659-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/1a1cda33df579a818c6307ca03edfb25/2186658-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/79edf57228042da9497089dd09eddea7/2186660-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/de9a2dd7c3637ae135effc041a341517/2186661-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/094ecc36084254491418dec02c2fd604/2186657-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/0d618012506711c29e6916103dd90576/2186659-B",
-      "lat": 43.3741385,
-      "lng": 11.865695,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2424401",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424401",
-      "img": "https://documents.astalegale.net/asta/0/B2424401?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Località Rigutino Ovest, 52100 Arezzo AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Località Rigutino Ovest, 52100 Arezzo AR, Italia",
-      "procedura": "Esecuzioni civili 5/2021 Tribunale Arezzo",
-      "dataAsta": "2026-10-07T11:00",
-      "dataAstaLabel": "07/10/2026 11:00",
-      "prezzoBase": 61866,
-      "tipologia": "Fabbricato commerciale piena proprietà su edificio con locali ad uso ufficio, negozio e magazzino inserito in un complesso ad uso residenziale - commerciale in zona centrale della frazione di Rigutino Ovest (Arezzo)",
-      "categoria": "Industriale / Magazzino",
-      "offertaMinima": 46400,
-      "terminePresentazione": "06/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/48ab564f809429f621c95cae8be4030b/2408703-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/c33518b23bf1015eab2fe9daa9a439e4/2408702-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/39d818491bf839dd77e79da9321a88b6/2186672-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/05c310fdc556c7ee7358aa442a21a1a9/2186675-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/b879df13ff3daebef9483098a59a985d/2186674-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/c3c487be0e77199a44d0ced7bdc910b5/2186671-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/6a1ad108f3c94bc3f716f373771bb5b0/2186673-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/39d818491bf839dd77e79da9321a88b6/2186672-B",
-      "lat": 43.3741385,
-      "lng": 11.865695,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2426111",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426111",
-      "img": "https://documents.astalegale.net/asta/0/B2426111?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Caprese Michelangelo - VIA SINGERNA 165",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Caprese Michelangelo",
-      "indirizzo": "VIA SINGERNA 165",
-      "procedura": "Esecuzioni civili 318/2017 Tribunale Arezzo",
-      "dataAsta": "2026-10-07T12:00",
-      "dataAstaLabel": "07/10/2026 12:00",
-      "prezzoBase": 47104,
-      "tipologia": "Fabbricato commerciale In Comune di Caprese Michelangelo, via Singerna n. 165: piena proprietà su fabbricato destinato a mostra e vendita mobili, dislocato su tre livelli, composto al piano terra da vani adibiti a mostra, due uffici, sevizio igienico, due corpi scala con i quali si accede ai livelli superiori e due locali tecnici (vani caldaia); al piano primo da mostra e due vani di minori dimensioni; al piano se...",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 35328,
-      "terminePresentazione": "06/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/27e34cbf5665e5189d9df2d835fe982d/2418496-C"
-        },
-        {
-          "label": "Ordinanza 1",
-          "url": "https://documents.astalegale.net/file/0/eff7d5953d51ae84d02a8b2b1e5ec2c9/1512057-D"
-        },
-        {
-          "label": "Ordinanza 2",
-          "url": "https://documents.astalegale.net/file/0/7d9815b6748bea689dc15821617c09b7/2418495-C"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/2a19a383051195393ad25ca759e64b14/27244-A"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/91e039505620e97ac83bffb9262c749b/2011228-C"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/f70a7e0e2317025ca42663de2b79bdc7/2154707-C"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/7e61f23795d58ed8f2ad700345391ac1/27242-A"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/2a19a383051195393ad25ca759e64b14/27244-A",
-      "lat": 43.6423028,
-      "lng": 11.9878314,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2426112",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2426112",
-      "img": "https://documents.astalegale.net/asta/0/B2426112?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Cortona - Via Case Sparse, 52044 Cortona AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Cortona",
-      "indirizzo": "Via Case Sparse, 52044 Cortona AR, Italia",
-      "procedura": "Esecuzioni civili 81/2021 Tribunale Arezzo",
-      "dataAsta": "2026-10-07T14:00",
-      "dataAstaLabel": "07/10/2026 14:00",
-      "prezzoBase": 50176,
-      "tipologia": "Abitazione di tipo civile In Comune di Cortona (AR), loc. San Lorenzo di Cortona – zona Case Sparse di Montecchio: fabbricato allo stato grezzo con destinazione d’uso residenziale, su due piani fuori terra ed uno interrato, attualmente definito essenzialmente dal solo “scheletro” strutturale, oltre a pertinente resede che circonda il fabbricato su tutti i lati. E’ compreso nel detto “Lotto Unico” un adiacente appezzamen...",
-      "categoria": "Abitazione",
-      "offertaMinima": 37632,
-      "terminePresentazione": "06/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/0ec2aafc6a8f12da12f6edfede9b89cd/2419074-C"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/64e805bcdfd565baa8e18811edb9ee1f/2419073-C"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/df5200bd9f2aa7106325482052ec9faf/2186441-B"
-        },
-        {
-          "label": "Documento con foto 1",
-          "url": "https://documents.astalegale.net/file/0/384be30a3904355f0341b892b0e2be8c/2186443-B"
-        },
-        {
-          "label": "Documento con foto 2",
-          "url": "https://documents.astalegale.net/file/0/dc1ef1eb10ed3057cb06b46e0cef7264/2186444-B"
-        },
-        {
-          "label": "Dati Catastali",
-          "url": "https://documents.astalegale.net/file/0/58179ac2482b077ad1a312d1c54bc953/2186442-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/df5200bd9f2aa7106325482052ec9faf/2186441-B",
-      "lat": 43.2752976,
-      "lng": 11.9850623,
-      "geoPrecision": "comune"
-    },
-    {
-      "id": "B2424402",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424402",
-      "img": "https://documents.astalegale.net/asta/0/B2424402?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Montevarchi - Via Levanella-la Lama, 52025 Montevarchi AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Montevarchi",
-      "indirizzo": "Via Levanella-la Lama, 52025 Montevarchi AR, Italia",
-      "procedura": "Esecuzioni civili 44/2020 Tribunale Arezzo",
-      "dataAsta": "2026-10-07T15:00",
-      "dataAstaLabel": "07/10/2026 15:00",
-      "prezzoBase": 27181.06,
-      "tipologia": "Terreno DIRITTO DI PIENA PROPRIETA' SU TERRENO EDIFICABILE UBICATO IN MOTEVARCHI (AR) LOC. LEVANELLA A MARGINE DELL'ABITATO ALLE SPALLE DELL'EDIFICATO ESISTENTE LUNGO LA STRADA REGIONALE 69.IL TERRENO E' LIBERO DA EDIFICAZIONE E INCOLTO.",
-      "categoria": "Terreno",
-      "offertaMinima": 20385.8,
-      "terminePresentazione": "06/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/cc80f6ef663f1a15ed35f797cf0245fa/2426290-D"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/49946b694a5188eff2846a43ee29051a/2426289-D"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/d09857cb544f579879819ea3f94d3cce/2186367-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/67dafaa4370a04f7a4686e679b1f9be8/2186368-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/32ed115dbf17b44bb5b5ebd05b5e2cc8/2186369-B"
-        },
-        {
-          "label": "Perizia 4",
-          "url": "https://documents.astalegale.net/file/0/0aed4eff84f5aed6572931b6fc133607/2186370-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/ceb57236ded419ac27939242af6b49e9/2186366-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/d09857cb544f579879819ea3f94d3cce/2186367-B",
-      "lat": 43.5234999,
-      "lng": 11.5675911,
-      "geoPrecision": "comune"
-    },
-    {
-      "id": "B2419823",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2419823",
-      "img": "https://documents.astalegale.net/asta/0/B2419823?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Castiglion Fibocchi - Loc. Gello Biscardo n. 4",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Castiglion Fibocchi",
-      "indirizzo": "Loc. Gello Biscardo n. 4",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 216/2024 Tribunale Arezzo",
-      "dataAsta": "2026-10-08T09:00",
-      "dataAstaLabel": "08/10/2026 09:00",
-      "prezzoBase": 127692,
-      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà per la quota dell'intero su due appartamenti posti in Castiglion Fibocchi (AR) Loc. Gello Biscardo n. 4 della superficie commerciale rispettivamente di mq. 88,15 e 62,39 Prima Precedente 1 2 3 Precedente 1 2 3 Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 95769,
-      "terminePresentazione": "07/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/99db59add39c65ca64fdce59da9f37fb/2380669-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/85b9df8c758ffc9602903de4fdb97e23/2380668-B"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/6100d4e0990b24e9cf3aa3c450048d32/2380664-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/d54f4c76b1a900a1615a4830d1cbf008/2380665-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/6100d4e0990b24e9cf3aa3c450048d32/2380664-B",
-      "lat": 43.5279646,
-      "lng": 11.7631758,
-      "geoPrecision": "comune"
-    },
-    {
-      "id": "B2419375",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2419375",
-      "img": "https://documents.astalegale.net/asta/0/B2419375?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Castelfranco Piandiscò - frazione Faella - Montalpero, Largo della Quercia n.7",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Castelfranco Piandiscò",
-      "indirizzo": "frazione Faella - Montalpero, Largo della Quercia n.7",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 36/2025 Tribunale Arezzo",
-      "dataAsta": "2026-10-08T10:00",
-      "dataAstaLabel": "08/10/2026 10:00",
-      "prezzoBase": 71400,
-      "tipologia": "Abitazione di tipo civile Intera piena proprietà di un appartamento composto da un ingresso-disimpegno, una cucina, un soggiorno con bagno wc ed un sottoscala al piano terreno; un disimpegno, due camere, un bagno wc ed un ripostiglio al piano primo.",
-      "categoria": "Terreno",
-      "offertaMinima": 53550,
-      "terminePresentazione": "07/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/dba15e9fe1088f4e89d75cc42b7f791e/2374864-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/74f7830284a20c5f72d1f035b8466b5b/2374862-B"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/1ffc329e8373ccaee28487f7709fbc72/2374863-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/6e291f1226830ca900dcaffd4ed98574/2374844-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/1ffc329e8373ccaee28487f7709fbc72/2374863-B",
-      "lat": 43.6395122,
-      "lng": 11.5646231,
-      "geoPrecision": "comune"
-    },
-    {
-      "id": "B2421272",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2421272",
-      "img": "https://documents.astalegale.net/asta/0/B2421272?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Anghiari - Via del Campo della Fiera, 10, 52031 Anghiari AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Anghiari",
-      "indirizzo": "Via del Campo della Fiera, 10, 52031 Anghiari AR, Italia",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 45/2025 Tribunale Arezzo",
-      "dataAsta": "2026-10-08T11:00",
-      "dataAstaLabel": "08/10/2026 11:00",
-      "prezzoBase": 370567,
-      "tipologia": "Fabbricato commerciale DIRITTO DI PIENA PROPRIETA' PER L'INTERO SU LOCALE USO COMMERCIALE SITO NEL COMUNE DI ANGHIARI (AR) VIA CAMPO ALLA FIERA N. 10 ED ANNESSO RESEDE RESIDENZIALE, DISLOCATO SUE DUE PIANI. Prima Precedente 1 2 3 Successiva Ultima Precedente 1 2 3 Successiva Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 27792.25,
-      "terminePresentazione": "07/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/d570486b8ce1038c99d6e901984fdf08/2385761-C"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/896590bad4418a500fe0e4dd5f162217/2385762-C"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/3f916ac0fd58e8864372521440afaff8/2385757-C"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/36f28981df9e284f52da6ac69212c966/2385758-C"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/351e56072ab8905845fc956867f36558/2385759-C"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/93452850e133fec88a567069751212dd/2385756-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/3f916ac0fd58e8864372521440afaff8/2385757-C",
-      "lat": 43.5409662,
-      "lng": 12.0545815,
-      "geoPrecision": "comune"
-    },
     {
       "id": "B2424028",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424028",
@@ -483,51 +50,6 @@
       "geoPrecision": "indirizzo"
     },
     {
-      "id": "B2424027",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424027",
-      "img": "https://documents.astalegale.net/asta/0/B2424027?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 55/2025 Tribunale Arezzo",
-      "dataAsta": "2026-10-13T09:00",
-      "dataAstaLabel": "13/10/2026 09:00",
-      "prezzoBase": 74480,
-      "tipologia": "Abitazione di tipo civile Unità immobiliare costituente porzione di un più ampio edificio a schiera, destinata alla civile abitazione, situata nel Comune di Arezzo, Viale S. Margherita 56, con ingresso indipendente esterno, posta al piano Terra, così composta: piano terra (H ml. 2.85) appartamento allo stato grezzo, privo di tramezzature interne, composto da un unico ampio locale",
-      "categoria": "Abitazione",
-      "offertaMinima": 55860,
-      "terminePresentazione": "12/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/3963642ddf7abf7539869f0de9174569/2412962-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/88bf21c977caad3d2dd8d04bb57a8d6c/2412964-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/98abb50554aa526a2cf3204e780ab7b4/2412966-B"
-        },
-        {
-          "label": "Dati Catastali",
-          "url": "https://documents.astalegale.net/file/0/3fba47b547fb21c897e27f32072c8595/2412965-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B",
-      "lat": 43.4721886,
-      "lng": 11.8793467,
-      "geoPrecision": "indirizzo"
-    },
-    {
       "id": "B2424026",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424026",
       "img": "https://documents.astalegale.net/asta/0/B2424026?w=536&h=360&zl=14",
@@ -565,6 +87,51 @@
         {
           "label": "Dati Catastali",
           "url": "https://documents.astalegale.net/file/0/efb1de522e7e0a5114f3b0ce3465fc18/2412950-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B",
+      "lat": 43.4721886,
+      "lng": 11.8793467,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2424027",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424027",
+      "img": "https://documents.astalegale.net/asta/0/B2424027?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Arezzo",
+      "indirizzo": "Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
+      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 55/2025 Tribunale Arezzo",
+      "dataAsta": "2026-10-13T09:00",
+      "dataAstaLabel": "13/10/2026 09:00",
+      "prezzoBase": 74480,
+      "tipologia": "Abitazione di tipo civile Unità immobiliare costituente porzione di un più ampio edificio a schiera, destinata alla civile abitazione, situata nel Comune di Arezzo, Viale S. Margherita 56, con ingresso indipendente esterno, posta al piano Terra, così composta: piano terra (H ml. 2.85) appartamento allo stato grezzo, privo di tramezzature interne, composto da un unico ampio locale",
+      "categoria": "Abitazione",
+      "offertaMinima": 55860,
+      "terminePresentazione": "12/10/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/3963642ddf7abf7539869f0de9174569/2412962-B"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/88bf21c977caad3d2dd8d04bb57a8d6c/2412964-B"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/98abb50554aa526a2cf3204e780ab7b4/2412966-B"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/3fba47b547fb21c897e27f32072c8595/2412965-B"
         }
       ],
       "perizia": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B",
@@ -679,7 +246,7 @@
       "dataAsta": "2026-10-15T10:15",
       "dataAstaLabel": "15/10/2026 10:15",
       "prezzoBase": 20240,
-      "tipologia": "Fabbricato commerciale locale ad uso commerciale posto al piano terreno di immobile posto nel centro storico di Pergine Valdarno (Ar), via Vallelunga n. 4, zona dotata dei principali servizi pubblici e privati, caratterizzata da fabbricati storici in linea lungo strada, con attività commerciali di vicinato ai piani terra e abitazioni ai piani superiori, oltre a fabbricati condominiali, modeste attività artigianali e ...",
+      "tipologia": "Fabbricato commerciale locale ad uso commerciale posto al piano terreno di immobile posto nel centro storico di Pergine Valdarno (Ar), via Vallelunga n. 4, zona dotata dei principali servizi pubblici e privati, caratterizzata da fabbricati storici in linea lungo strada, con attività commerciali di vicinato ai piani terra e abitazioni ai piani superiori, oltre a fabbricati condominiali, modeste attività artigianali e ... Prima Precedente 1 2 3 Successiva Ultima Precedente 1 2 3 Successiva Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
       "categoria": "Terreno",
       "offertaMinima": 15180,
       "terminePresentazione": "14/10/2026 13:00",
@@ -1255,7 +822,7 @@
       "dataAsta": "2026-10-20T09:00",
       "dataAstaLabel": "20/10/2026 09:00",
       "prezzoBase": 34800,
-      "tipologia": "Abitazione di tipo rurale Diritto di piena proprietà per la quota dell'intero su terreni agricoli e rustico della superficie commerciale di 31,50 mq posti in Sansepolcro (AR) Via di Montevicchi Snc Frazione Località Farneto / Paradiso /Basilica",
+      "tipologia": "Abitazione di tipo rurale Diritto di piena proprietà per la quota dell'intero su terreni agricoli e rustico della superficie commerciale di 31,50 mq posti in Sansepolcro (AR) Via di Montevicchi Snc Frazione Località Farneto / Paradiso /Basilica Prima Precedente 1 2 3 Precedente 1 2 3 Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
       "categoria": "Terreno",
       "offertaMinima": 26100,
       "terminePresentazione": "19/10/2026 13:00",
@@ -1460,139 +1027,6 @@
       "geoPrecision": "comune"
     },
     {
-      "id": "B2428425",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428425",
-      "img": "https://documents.astalegale.net/asta/0/B2428425?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Terranuova Bracciolini - FRAZ. PIANTRAVIGNE N. 60",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Terranuova Bracciolini",
-      "indirizzo": "FRAZ. PIANTRAVIGNE N. 60",
-      "procedura": "Esecuzioni civili 114/2019 Tribunale Arezzo",
-      "dataAsta": "2026-10-21T14:00",
-      "dataAstaLabel": "21/10/2026 14:00",
-      "prezzoBase": 67584,
-      "tipologia": "Abitazione di tipo civile Piena proprietà di porzione di fabbricato di tipo abitativo (alloggio tipologia loft al grezzo), sviluppata su più livelli (PT, P1 e P soppalco), inserita all’interno di un edificio di più ampia consistenza suddiviso in varie unità immobiliari (denominato complesso “ex tabaccaia”), corredata da posto auto scoperto, ubicata in Comune di Terranuova Bracciolini (AR), Fraz. Piantravigne n.60.",
-      "categoria": "Box / Garage",
-      "offertaMinima": 50688,
-      "terminePresentazione": "20/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/44ba65ddff0465b74fdef4dbfab71966/2460277-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/a2041c316b21d7f3a7a7b7979218adb1/2460260-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dfbd563e8be434ef0e030594e15a964a/2205461-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/0bcfa57caba23f6f47a3908684178102/2205462-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/88bc5479bed417fd6c0c9e41d1d88c7b/2205465-B"
-        },
-        {
-          "label": "Perizia 4",
-          "url": "https://documents.astalegale.net/file/0/6b75afd74156372511243232fa587ff1/2205466-B"
-        },
-        {
-          "label": "Perizia 5",
-          "url": "https://documents.astalegale.net/file/0/d4156ce366a10e8752a70df8f98c2c08/2460261-B"
-        },
-        {
-          "label": "Perizia 6",
-          "url": "https://documents.astalegale.net/file/0/31f0252a438a3f230d91db6bfbc63730/2460266-B"
-        },
-        {
-          "label": "Perizia 7",
-          "url": "https://documents.astalegale.net/file/0/fb2a30710433fbc3ac10d3d3b289afb0/2460268-B"
-        },
-        {
-          "label": "Perizia 8",
-          "url": "https://documents.astalegale.net/file/0/8e42550494169ba6adffdf7cc836d1ea/2460270-B"
-        },
-        {
-          "label": "Perizia 9",
-          "url": "https://documents.astalegale.net/file/0/4794b355b81bbd5b8c3a18a0921b390f/2460271-B"
-        },
-        {
-          "label": "Perizia 10",
-          "url": "https://documents.astalegale.net/file/0/19ad5df7c2ee493f6f02a47e805b4781/2460272-B"
-        },
-        {
-          "label": "Perizia 11",
-          "url": "https://documents.astalegale.net/file/0/91b7aad31f8b79d68ad4a1555917ad61/2460273-B"
-        },
-        {
-          "label": "Perizia 12",
-          "url": "https://documents.astalegale.net/file/0/f301bca008fa7d05e94ba4eda70fd451/2460274-B"
-        },
-        {
-          "label": "Perizia 13",
-          "url": "https://documents.astalegale.net/file/0/6975d30ddab363afb9edf87e17fd2398/2460275-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/141e738bb6ca43d142607212fa5f9fd2/2205460-B"
-        },
-        {
-          "label": "Planimetria 1",
-          "url": "https://documents.astalegale.net/file/0/9482fa9493f6fd6749b7ae4e01023feb/2205464-B"
-        },
-        {
-          "label": "Planimetria 2",
-          "url": "https://documents.astalegale.net/file/0/8addb206e2cf786ac19f7a5e7e4455fd/2205463-B"
-        },
-        {
-          "label": "Planimetria 3",
-          "url": "https://documents.astalegale.net/file/0/d66986be855e39555cbbf0c398a20669/2205468-B"
-        },
-        {
-          "label": "Dati Catastali",
-          "url": "https://documents.astalegale.net/file/0/2418e0292e2e11033547b3b3c14a3ba3/2205467-B"
-        },
-        {
-          "label": "Altro 1",
-          "url": "https://documents.astalegale.net/file/0/914e80fd5f6b33bd633def78c792b0b3/2460262-B"
-        },
-        {
-          "label": "Altro 2",
-          "url": "https://documents.astalegale.net/file/0/7039da30d8bc176488f579ee2c20ce9e/2460263-B"
-        },
-        {
-          "label": "Altro 3",
-          "url": "https://documents.astalegale.net/file/0/24d5c25b200db25bc1ad517a16ad18a8/2460264-B"
-        },
-        {
-          "label": "Altro 4",
-          "url": "https://documents.astalegale.net/file/0/61ac10174daa0e3e85ae592de534d6b6/2460265-B"
-        },
-        {
-          "label": "Altro 5",
-          "url": "https://documents.astalegale.net/file/0/05bda8e6fa6bdec8b76aa71b810b2491/2460267-B"
-        },
-        {
-          "label": "Altro 6",
-          "url": "https://documents.astalegale.net/file/0/ed69ec48978a183837373cc64dc93d89/2460269-B"
-        },
-        {
-          "label": "Altro 7",
-          "url": "https://documents.astalegale.net/file/0/9913ba9753986da25fb68b58ac00cceb/2460276-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dfbd563e8be434ef0e030594e15a964a/2205461-B",
-      "lat": 43.5588759,
-      "lng": 11.6086495,
-      "geoPrecision": "comune"
-    },
-    {
       "id": "B2428424",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428424",
       "img": "https://documents.astalegale.net/asta/0/B2428424?w=536&h=360&zl=14",
@@ -1721,6 +1155,139 @@
         }
       ],
       "perizia": "https://documents.astalegale.net/file/0/844ffff8835956ea75748bf6a911e6f1/2205452-B",
+      "lat": 43.5588759,
+      "lng": 11.6086495,
+      "geoPrecision": "comune"
+    },
+    {
+      "id": "B2428425",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428425",
+      "img": "https://documents.astalegale.net/asta/0/B2428425?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Terranuova Bracciolini - FRAZ. PIANTRAVIGNE N. 60",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Terranuova Bracciolini",
+      "indirizzo": "FRAZ. PIANTRAVIGNE N. 60",
+      "procedura": "Esecuzioni civili 114/2019 Tribunale Arezzo",
+      "dataAsta": "2026-10-21T14:00",
+      "dataAstaLabel": "21/10/2026 14:00",
+      "prezzoBase": 67584,
+      "tipologia": "Abitazione di tipo civile Piena proprietà di porzione di fabbricato di tipo abitativo (alloggio tipologia loft al grezzo), sviluppata su più livelli (PT, P1 e P soppalco), inserita all’interno di un edificio di più ampia consistenza suddiviso in varie unità immobiliari (denominato complesso “ex tabaccaia”), corredata da posto auto scoperto, ubicata in Comune di Terranuova Bracciolini (AR), Fraz. Piantravigne n.60.",
+      "categoria": "Box / Garage",
+      "offertaMinima": 50688,
+      "terminePresentazione": "20/10/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/44ba65ddff0465b74fdef4dbfab71966/2460277-B"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/a2041c316b21d7f3a7a7b7979218adb1/2460260-B"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/dfbd563e8be434ef0e030594e15a964a/2205461-B"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/0bcfa57caba23f6f47a3908684178102/2205462-B"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/88bc5479bed417fd6c0c9e41d1d88c7b/2205465-B"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/6b75afd74156372511243232fa587ff1/2205466-B"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/d4156ce366a10e8752a70df8f98c2c08/2460261-B"
+        },
+        {
+          "label": "Perizia 6",
+          "url": "https://documents.astalegale.net/file/0/31f0252a438a3f230d91db6bfbc63730/2460266-B"
+        },
+        {
+          "label": "Perizia 7",
+          "url": "https://documents.astalegale.net/file/0/fb2a30710433fbc3ac10d3d3b289afb0/2460268-B"
+        },
+        {
+          "label": "Perizia 8",
+          "url": "https://documents.astalegale.net/file/0/8e42550494169ba6adffdf7cc836d1ea/2460270-B"
+        },
+        {
+          "label": "Perizia 9",
+          "url": "https://documents.astalegale.net/file/0/4794b355b81bbd5b8c3a18a0921b390f/2460271-B"
+        },
+        {
+          "label": "Perizia 10",
+          "url": "https://documents.astalegale.net/file/0/19ad5df7c2ee493f6f02a47e805b4781/2460272-B"
+        },
+        {
+          "label": "Perizia 11",
+          "url": "https://documents.astalegale.net/file/0/91b7aad31f8b79d68ad4a1555917ad61/2460273-B"
+        },
+        {
+          "label": "Perizia 12",
+          "url": "https://documents.astalegale.net/file/0/f301bca008fa7d05e94ba4eda70fd451/2460274-B"
+        },
+        {
+          "label": "Perizia 13",
+          "url": "https://documents.astalegale.net/file/0/6975d30ddab363afb9edf87e17fd2398/2460275-B"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/141e738bb6ca43d142607212fa5f9fd2/2205460-B"
+        },
+        {
+          "label": "Planimetria 1",
+          "url": "https://documents.astalegale.net/file/0/9482fa9493f6fd6749b7ae4e01023feb/2205464-B"
+        },
+        {
+          "label": "Planimetria 2",
+          "url": "https://documents.astalegale.net/file/0/8addb206e2cf786ac19f7a5e7e4455fd/2205463-B"
+        },
+        {
+          "label": "Planimetria 3",
+          "url": "https://documents.astalegale.net/file/0/d66986be855e39555cbbf0c398a20669/2205468-B"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/2418e0292e2e11033547b3b3c14a3ba3/2205467-B"
+        },
+        {
+          "label": "Altro 1",
+          "url": "https://documents.astalegale.net/file/0/914e80fd5f6b33bd633def78c792b0b3/2460262-B"
+        },
+        {
+          "label": "Altro 2",
+          "url": "https://documents.astalegale.net/file/0/7039da30d8bc176488f579ee2c20ce9e/2460263-B"
+        },
+        {
+          "label": "Altro 3",
+          "url": "https://documents.astalegale.net/file/0/24d5c25b200db25bc1ad517a16ad18a8/2460264-B"
+        },
+        {
+          "label": "Altro 4",
+          "url": "https://documents.astalegale.net/file/0/61ac10174daa0e3e85ae592de534d6b6/2460265-B"
+        },
+        {
+          "label": "Altro 5",
+          "url": "https://documents.astalegale.net/file/0/05bda8e6fa6bdec8b76aa71b810b2491/2460267-B"
+        },
+        {
+          "label": "Altro 6",
+          "url": "https://documents.astalegale.net/file/0/ed69ec48978a183837373cc64dc93d89/2460269-B"
+        },
+        {
+          "label": "Altro 7",
+          "url": "https://documents.astalegale.net/file/0/9913ba9753986da25fb68b58ac00cceb/2460276-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dfbd563e8be434ef0e030594e15a964a/2205461-B",
       "lat": 43.5588759,
       "lng": 11.6086495,
       "geoPrecision": "comune"
@@ -2576,7 +2143,7 @@
       "dataAsta": "2026-11-17T09:00",
       "dataAstaLabel": "17/11/2026 09:00",
       "prezzoBase": 37708.8,
-      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà per la quota dell'intero su appartamento della superficie commerciale di 104,68 mq. e su due terreni agricoli della superficie commerciale di 4.040,00 mq. e 990,00 mq. il tutto posto in Pratovecchio Stia (AR) via della Ricessa n. 6 1 2 3 Successiva Ultima 1 2 3 Successiva Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
+      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà per la quota dell'intero su appartamento della superficie commerciale di 104,68 mq. e su due terreni agricoli della superficie commerciale di 4.040,00 mq. e 990,00 mq. il tutto posto in Pratovecchio Stia (AR) via della Ricessa n. 6",
       "categoria": "Terreno",
       "offertaMinima": 28281.6,
       "terminePresentazione": "16/11/2026 13:00",
@@ -3264,6 +2831,132 @@
       "lat": 43.4945948,
       "lng": 11.6350017,
       "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2436144",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436144",
+      "img": "https://documents.astalegale.net/asta/0/B2436144?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Terranuova Bracciolini - Frazione La Penna località La Steccata",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Terranuova Bracciolini",
+      "indirizzo": "Frazione La Penna località La Steccata",
+      "procedura": "Procedure concorsuali / Liquidazione giudiziale (CCI) 8/2026 Tribunale Arezzo",
+      "dataAsta": "2026-11-26T09:00",
+      "dataAstaLabel": "26/11/2026 09:00",
+      "prezzoBase": 23000,
+      "tipologia": "Terreno VENDITA GIUDIZIARIA - Appezzamento di terreno agricolo, pressoché pianeggiante e di forma regolare, di superficie complessiva mq. 9.090 con accesso dalla confinante strada denominata Via La Steccata. Per maggiori informazioni contattare il dot..Andrea Petreni, andrea@itasset.it - mob.339/5274210",
+      "categoria": "Terreno",
+      "offertaMinima": 17250,
+      "terminePresentazione": "23/11/2026 21:00",
+      "modalitaGara": null,
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/38a3f31587b58ab970bfcb2b7309e4a8/2496727-C"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/bfc8edc9f30ef7a803086cc0e47649d1/2496728-C"
+        },
+        {
+          "label": "CERTIFICATO DI DESTINAZIONE URBANISTICA 2",
+          "url": "https://documents.astalegale.net/file/0/3e2e7081d87a8b511e6125455710e1ce/2496729-C"
+        },
+        {
+          "label": "ALL 3 NORMATIVA EDILIZIA LOTTO 1 3",
+          "url": "https://documents.astalegale.net/file/0/de249f7782343a2af95a9821767f0be8/2496742-C"
+        },
+        {
+          "label": "RILIEVO FOTOGRAFICO",
+          "url": "https://documents.astalegale.net/file/0/79f10e35fd35e3f9d9b385d028440194/2496740-C"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/5d640c5d6b7ada1a3fdbe6b15b9afd01/2496739-C"
+        },
+        {
+          "label": "ALL 2 ATTI DI PROVENIENZA 1",
+          "url": "https://documents.astalegale.net/file/0/6ce302e9cceca381b2e25e41a9523d16/2496730-C"
+        },
+        {
+          "label": "ALL 6 VISURE IPOTECARIE 2",
+          "url": "https://documents.astalegale.net/file/0/b0221d5cb48e6c5fb203cef65fa4196a/2496731-C"
+        },
+        {
+          "label": "SOVRAPPOSTO CATASTO 3",
+          "url": "https://documents.astalegale.net/file/0/d242117afd2d3a443f1a5c0158eeebec/2496741-C"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/bfc8edc9f30ef7a803086cc0e47649d1/2496728-C",
+      "lat": 43.5588759,
+      "lng": 11.6086495,
+      "geoPrecision": "comune"
+    },
+    {
+      "id": "B2436145",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436145",
+      "img": "https://documents.astalegale.net/asta/0/B2436145?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Terranuova Bracciolini - Centro C'èntro storico, snc",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Terranuova Bracciolini",
+      "indirizzo": "Centro C'èntro storico, snc",
+      "procedura": "Procedure concorsuali / Liquidazione giudiziale (CCI) 8/2026 Tribunale Arezzo",
+      "dataAsta": "2026-11-26T09:00",
+      "dataAstaLabel": "26/11/2026 09:00",
+      "prezzoBase": 94000,
+      "tipologia": "Terreno VENDITA GIUDIZIARIA - Appezzamento di terreno posto nel centro urbano ed ai margini del Centro Storico dell’abitato di Terranuova Bracciolini (Ar). Per maggiori informazioni rivolgersi al dott.Andrea Petreni, email: andrea@itasset.it - mob.339/5274210",
+      "categoria": "Terreno",
+      "offertaMinima": 70500,
+      "terminePresentazione": "23/11/2026 21:00",
+      "modalitaGara": null,
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/38a3f31587b58ab970bfcb2b7309e4a8/2496727-C"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/49eb1305eb714c9581ace28d5c8ae209/2496743-C"
+        },
+        {
+          "label": "CERTIFICATO DI DESTINAZIONE URBANISTICA 2",
+          "url": "https://documents.astalegale.net/file/0/820eb94f6753b57ba6e1caea4798770a/2496744-C"
+        },
+        {
+          "label": "ALL 3 NORMATIVA EDILIZIA LOTTO 2 3",
+          "url": "https://documents.astalegale.net/file/0/db92c8c1b3aa8fa2772c80f4dd18ea4a/2496747-C"
+        },
+        {
+          "label": "VISURE STORICHE 4",
+          "url": "https://documents.astalegale.net/file/0/d47e90cb2c3f37744d0d721b1b22c8e0/2496758-C"
+        },
+        {
+          "label": "RILIEVO FOTOGRAFICO",
+          "url": "https://documents.astalegale.net/file/0/51740097bba7a95bec79f37d0d4edf41/2496748-C"
+        },
+        {
+          "label": "Planimetria 1",
+          "url": "https://documents.astalegale.net/file/0/2765d4fcec1d358e0e94141cd6c0742a/2496756-C"
+        },
+        {
+          "label": "SOVRAPPOSTO CATASTO 2",
+          "url": "https://documents.astalegale.net/file/0/4696da25bfb7c61bad00c107bee63b2e/2496757-C"
+        },
+        {
+          "label": "Dati Catastali 1",
+          "url": "https://documents.astalegale.net/file/0/c35d61176773a36c0dfc47030821b034/2496745-C"
+        },
+        {
+          "label": "Dati Catastali 2",
+          "url": "https://documents.astalegale.net/file/0/0d2a09f8d27d5e889fc0abcd3686485d/2496746-C"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/49eb1305eb714c9581ace28d5c8ae209/2496743-C",
+      "lat": 43.5588759,
+      "lng": 11.6086495,
+      "geoPrecision": "comune"
     },
     {
       "id": "B2423435",
@@ -3961,6 +3654,43 @@
       "perizia": null,
       "lat": 43.4453988,
       "lng": 11.812713,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2436629",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436629",
+      "img": "https://documents.astalegale.net/asta/0/B2436629?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Montevarchi - Via Pestello n. 15",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Montevarchi",
+      "indirizzo": "Via Pestello n. 15",
+      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 141/2024 Tribunale Arezzo",
+      "dataAsta": "2026-12-15T10:00",
+      "dataAstaLabel": "15/12/2026 10:00",
+      "prezzoBase": 63716,
+      "tipologia": "Abitazione di tipo civile appartamento di civile abitazione, sito al secondo piano e facente parte di un più ampio fabbricato + garage, situato al piano terra del fabbricato a destinazione residenziale, accessibile dalla strada principale in Via Pestello, civico 15/1",
+      "categoria": "Box / Garage",
+      "offertaMinima": 47787,
+      "terminePresentazione": "14/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/ca97d0b04d6f65d0f97dd0b8b9625946/2500654-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/40fbb545e745b9a5171b054d6b087812/2398456-C"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/55aceb6e47e4a88a35522020ccb9adfd/2398457-C"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/40fbb545e745b9a5171b054d6b087812/2398456-C",
+      "lat": 43.5203294,
+      "lng": 11.5680596,
       "geoPrecision": "indirizzo"
     },
     {
@@ -5176,6 +4906,128 @@
       "geoPrecision": "indirizzo"
     },
     {
+      "id": "B2436861",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436861",
+      "img": "https://documents.astalegale.net/asta/0/B2436861?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Terranuova Bracciolini - 52028 Castiglion Ubertini AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Terranuova Bracciolini",
+      "indirizzo": "52028 Castiglion Ubertini AR, Italia",
+      "procedura": "Esecuzioni civili 116/2021 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T14:00",
+      "dataAstaLabel": "16/12/2026 14:00",
+      "prezzoBase": null,
+      "tipologia": "Terreno PROPRIETA' SU VARI APPEZZAMENTI DI TERRENO AGRICOLO BOSCHIVO PER COMPLESSIVI MQ 147.105",
+      "categoria": "Terreno",
+      "offertaMinima": 15360,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/795363dc7fd07880120fcaed2d05d88a/2500631-D"
+        },
+        {
+          "label": "Ordinanza 1",
+          "url": "https://documents.astalegale.net/file/0/cc0e8249675bb10831881511dada6902/2500629-D"
+        },
+        {
+          "label": "Ordinanza 2",
+          "url": "https://documents.astalegale.net/file/0/272c15fa9a11aa8ad5d6f9ee49874ec0/2500630-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/76ff49e857bd8140e116e64b687d2829/2500624-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/b95f50b8258f5a233197d73608f244cb/2500625-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/9ee94aa753eaa5e5e614abdbce8faccd/2500626-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/13c87830d54ae2120c50ab8dc66980ba/2500627-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/3f3e5335347fc7c4b948ef75a6d81e40/2500628-D"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/a67608cb4b0e30e5c398751ac881b16d/2166161-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/76ff49e857bd8140e116e64b687d2829/2500624-D",
+      "lat": 43.5588759,
+      "lng": 11.6086495,
+      "geoPrecision": "comune"
+    },
+    {
+      "id": "B2436860",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436860",
+      "img": "https://documents.astalegale.net/asta/0/B2436860?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Terranuova Bracciolini - Via Poggilupi, Terranuova Bracciolini AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Terranuova Bracciolini",
+      "indirizzo": "Via Poggilupi, Terranuova Bracciolini AR, Italia",
+      "procedura": "Esecuzioni civili 116/2021 Tribunale Arezzo",
+      "dataAsta": "2026-12-16T14:00",
+      "dataAstaLabel": "16/12/2026 14:00",
+      "prezzoBase": null,
+      "tipologia": "Abitazione di tipo civile PORZIONE IMMOBILIARE DIREZIONALE E AREA ESTERNA ADIBITA A VIABILITA' E POSTI AUTO",
+      "categoria": "Abitazione",
+      "offertaMinima": 59290,
+      "terminePresentazione": "15/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/795363dc7fd07880120fcaed2d05d88a/2500631-D"
+        },
+        {
+          "label": "Ordinanza 1",
+          "url": "https://documents.astalegale.net/file/0/cc0e8249675bb10831881511dada6902/2500629-D"
+        },
+        {
+          "label": "Ordinanza 2",
+          "url": "https://documents.astalegale.net/file/0/272c15fa9a11aa8ad5d6f9ee49874ec0/2500630-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/76ff49e857bd8140e116e64b687d2829/2500624-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/b95f50b8258f5a233197d73608f244cb/2500625-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/9ee94aa753eaa5e5e614abdbce8faccd/2500626-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/13c87830d54ae2120c50ab8dc66980ba/2500627-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/3f3e5335347fc7c4b948ef75a6d81e40/2500628-D"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/d12bf55eec5a30c46ea5f35e256449b6/2166104-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/76ff49e857bd8140e116e64b687d2829/2500624-D",
+      "lat": 43.5595066,
+      "lng": 11.5435537,
+      "geoPrecision": "indirizzo"
+    },
+    {
       "id": "B2432729",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432729",
       "img": "https://documents.astalegale.net/asta/0/B2432729?w=536&h=360&zl=14",
@@ -5401,6 +5253,47 @@
       "geoPrecision": "comune"
     },
     {
+      "id": "B2433278",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2433278",
+      "img": "https://documents.astalegale.net/asta/0/B2433278?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Loc. La Selva - Frassineto",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Arezzo",
+      "indirizzo": "Loc. La Selva - Frassineto",
+      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 105/2025 Tribunale Arezzo",
+      "dataAsta": "2026-12-23T10:00",
+      "dataAstaLabel": "23/12/2026 10:00",
+      "prezzoBase": 25191.36,
+      "tipologia": "Terreno Piena proprietà di tre appezzamenti di terreno adiacenti prevalentemente con sistemazioni a giardino alberature ornamentali, essenze vegetali, piante fruttifere e spazi destinati alla fruizione pertinenziale con campo da bocce, campo da calcio, voliere, viabilità e in parte ad area boscata e vegetazione spontanea, con accesso da cancello ad uso carrabile e perdonale da Via dei Mori e ulteriore ...",
+      "categoria": "Terreno",
+      "offertaMinima": 18893.52,
+      "terminePresentazione": "22/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/fb0cb5f61764e63496c381e8e912fdc6/2499883-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/76e0342544c4ca342400e25816f7a338/2499867-D"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/f75599853f04b725861462b88a68ac41/2499868-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/463b3734718216cd177badb08cd41d02/2499869-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/76e0342544c4ca342400e25816f7a338/2499867-D",
+      "lat": 43.4628957,
+      "lng": 11.8781675,
+      "geoPrecision": "comune"
+    },
+    {
       "id": "B2432962",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432962",
       "img": "https://documents.astalegale.net/asta/0/B2432962?w=536&h=360&zl=14",
@@ -5413,8 +5306,8 @@
       "dataAsta": "2026-12-23T11:00",
       "dataAstaLabel": "23/12/2026 11:00",
       "prezzoBase": 25000,
-      "tipologia": "Abitazione di tipo civile appartamento a destinazione residenziale, posto al primo piano di un più ampio fabbricato condominiale di tre piani fuori terra (denominato “Villa Enza”), ubicato nel centro abitato di Gatteo Mare (FC), Via Venezia n. 4, a circa 350 metri dalla spiaggia, composto da due vani oltre servizio igienico, il tutto contraddistinto al Catasto Fabbricati del Comu-ne di Gatteo (FC) al foglio 1, particell...",
-      "categoria": "Abitazione",
+      "tipologia": "Abitazione di tipo civile appartamento a destinazione residenziale, posto al primo piano di un più ampio fabbricato condominiale di tre piani fuori terra (denominato “Villa Enza”), ubicato nel centro abitato di Gatteo Mare (FC), Via Venezia n. 4, a circa 350 metri dalla spiaggia, composto da due vani oltre servizio igienico, il tutto contraddistinto al Catasto Fabbricati del Comu-ne di Gatteo (FC) al foglio 1, particell... 1 2 3 Successiva Ultima 1 2 3 Successiva Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
+      "categoria": "Commerciale / Ufficio",
       "offertaMinima": 20000,
       "terminePresentazione": "22/12/2026 13:00",
       "modalitaGara": "Sincrona",
@@ -5440,6 +5333,104 @@
       "lat": 44.1678682,
       "lng": 12.4383996,
       "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2436773",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436773",
+      "img": "https://documents.astalegale.net/asta/0/B2436773?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Localita' Patrignone",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Arezzo",
+      "indirizzo": "Localita' Patrignone",
+      "procedura": "Procedure concorsuali / Fallimentare 41/2018 Tribunale Arezzo",
+      "dataAsta": "2026-12-30T09:00",
+      "dataAstaLabel": "30/12/2026 09:00",
+      "prezzoBase": 231200,
+      "tipologia": "Terreno Diritto di piena proprietà per l’intero (1/1) su terreno edificabile della superficie nominale complessiva di 1.380 mq.",
+      "categoria": "Terreno",
+      "offertaMinima": 231200,
+      "terminePresentazione": "29/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/cab9346863d6193addadc376693c4f4e/2499777-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/1869aeed1f5c8fae04f8cdec9af8b086/2499778-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/f26a8a186637434b4f8a9994f3809986/2422567-B"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/832a8a148640abdfa5e099d61e3cdc21/2422568-B"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/6112d51ea31a4ea63dbfd6451077cf08/2422566-B"
+        },
+        {
+          "label": "Altro",
+          "url": "https://documents.astalegale.net/file/0/b04381d62e45b210a087b281060a66a1/2422570-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/f26a8a186637434b4f8a9994f3809986/2422567-B",
+      "lat": 43.4628957,
+      "lng": 11.8781675,
+      "geoPrecision": "comune"
+    },
+    {
+      "id": "B2436764",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436764",
+      "img": "https://documents.astalegale.net/asta/0/B2436764?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Cortona - Localita' Farneta, 35/A",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Cortona",
+      "indirizzo": "Localita' Farneta, 35/A",
+      "procedura": "Esecuzioni civili 123/2021 Tribunale Arezzo",
+      "dataAsta": "2026-12-30T10:00",
+      "dataAstaLabel": "30/12/2026 10:00",
+      "prezzoBase": 1141760,
+      "tipologia": "Fabbricato commerciale Diritto di piena proprietà su complesso turistico-ricettivo denominato “Relais Petrischio”, composto da villa padronale, piscina, spogliatoi, cucina esterna, edificio di culto privato, edifici con alloggi, ufficio/reception, magazzino, oltre accessori e diversi appezzamenti di terreno circostanti. La villa si sviluppa su tre piani fuori terra e colombaia; poi vi sono due edifici ricettivi, mag...",
+      "categoria": "Terreno",
+      "offertaMinima": 856320,
+      "terminePresentazione": "29/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/4c632c197efbbfaf96ae9a902db13069/2499885-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/99ff359b32d2d25d2b2e0b282183a831/2499884-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/29d65848eccbf34b4cc8e1e4c28a1158/2114420-B"
+        },
+        {
+          "label": "Documento con foto 1",
+          "url": "https://documents.astalegale.net/file/0/857287bc9d987629ce4cd44eac53743c/2223659-B"
+        },
+        {
+          "label": "Documento con foto 2",
+          "url": "https://documents.astalegale.net/file/0/dd908ce8913a1a88919d289e240de56a/2223660-B"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/a2ef8e84e6d34405c0c199868853c676/2114424-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/29d65848eccbf34b4cc8e1e4c28a1158/2114420-B",
+      "lat": 43.2752976,
+      "lng": 11.9850623,
+      "geoPrecision": "comune"
     },
     {
       "id": "B2433778",
@@ -5485,6 +5476,235 @@
       "lat": 43.341715,
       "lng": 11.92378,
       "geoPrecision": "comune"
+    },
+    {
+      "id": "B2436775",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436775",
+      "img": "https://documents.astalegale.net/asta/0/B2436775?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Localita' Ponte a Chiani",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Arezzo",
+      "indirizzo": "Localita' Ponte a Chiani",
+      "procedura": "Procedure concorsuali / Fallimentare 41/2018 Tribunale Arezzo",
+      "dataAsta": "2027-01-12T12:00",
+      "dataAstaLabel": "12/01/2027 12:00",
+      "prezzoBase": 128563,
+      "tipologia": "Terreno In Comune di Arezzo, Località Ponte a Chiani, all’interno di area oggetto del Piano Particolareggiato del comparto Zona per attività produttive ‘Ponte a Chiani’, diritto di piena proprietà per l’intero (1/1) su appezzamenti di terreno edificabile della superficie nominale complessiva di 6.200 metri quadrati.",
+      "categoria": "Terreno",
+      "offertaMinima": 128563,
+      "terminePresentazione": "11/01/2027 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/9f92a9e09e86d22dadb6c38abe715783/2499780-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/084a1d733dcc42153714bfc2d2dc5e6a/2499779-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/9f82bd5414c49024e5f6a35300430f26/2499782-D"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/af6455deef5bb9c32550b9ad1d8ae156/2499783-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/218976f5dbf09ed770992911990d29b5/2499781-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/9f82bd5414c49024e5f6a35300430f26/2499782-D",
+      "lat": 43.4453988,
+      "lng": 11.812713,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2436779",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436779",
+      "img": "https://documents.astalegale.net/asta/0/B2436779?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Via Molinara, 33",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Arezzo",
+      "indirizzo": "Via Molinara, 33",
+      "procedura": "Procedure concorsuali / Fallimentare 41/2018 Tribunale Arezzo",
+      "dataAsta": "2027-01-19T09:00",
+      "dataAstaLabel": "19/01/2027 09:00",
+      "prezzoBase": 618658,
+      "tipologia": "Fabbricato commerciale Diritto di piena proprietà per l'intero (1/1) su complesso immobiliare ad uso commerciale, artigianale e direzionale costituito da edificio di recente edificazione dislocato su più piani fuori terra, corredato da ampia autorimessa al pianto interrato, da aree scoperte e da resede pertinenziale adibiti a parcheggi ed integrato dai proporzionali diritti di comproprietà sulle parti ad uso comune e...",
+      "categoria": "Box / Garage",
+      "offertaMinima": 618658,
+      "terminePresentazione": "18/01/2027 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/072b963b6e32f084e81a520d71233664/2499837-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/4837d7239b3dba771813b1ea6fd44006/2499836-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/089bf4122d2f2a0925a3c5ee55d5ff4c/2161707-B"
+        },
+        {
+          "label": "Documento con foto 1",
+          "url": "https://documents.astalegale.net/file/0/23553a42b6a2aa8f772c2d0f73a9f195/2161708-B"
+        },
+        {
+          "label": "Documento con foto 2",
+          "url": "https://documents.astalegale.net/file/0/f473d929aedd4b236897322ea7aa8289/2161709-B"
+        },
+        {
+          "label": "Planimetria 1",
+          "url": "https://documents.astalegale.net/file/0/656ba9e27f14033540a7f1b3ca78c1aa/1437912-B"
+        },
+        {
+          "label": "Planimetria 2",
+          "url": "https://documents.astalegale.net/file/0/66d7b24b3eb1add477cc7bb7c937490e/1437913-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/089bf4122d2f2a0925a3c5ee55d5ff4c/2161707-B",
+      "lat": 43.4617268,
+      "lng": 11.8225908,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2436858",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436858",
+      "img": "https://documents.astalegale.net/asta/0/B2436858?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Terranuova Bracciolini - Via Poggilupi, 1620, 52028 Terranuova Bracciolini AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Terranuova Bracciolini",
+      "indirizzo": "Via Poggilupi, 1620, 52028 Terranuova Bracciolini AR, Italia",
+      "procedura": "Esecuzioni civili 152/2018 Tribunale Arezzo",
+      "dataAsta": "2027-01-20T10:00",
+      "dataAstaLabel": "20/01/2027 10:00",
+      "prezzoBase": 364000,
+      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà su importante compendio immobiliare ad uso residenziale, posto nel Comune di Terranuova Bracciolini (AR), via Poggilupi n. 1620; Il fabbricato, costruito nei primi anni ’60, si sviluppa su tre piani fuori terra più un vano centrale completamente interrato ad uso cantina. Il fabbricato è circondato da un ampio resede sistemato a giardino, anche se attualmente in comple...",
+      "categoria": "Abitazione",
+      "offertaMinima": 273000,
+      "terminePresentazione": "19/01/2027 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/e3afc9d4e9e9108dd145faa5913703ca/2500717-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/d98515be5d2c9242148dca481d988741/2500716-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/eaacd7679a51343170487156f70350e0/2500686-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/ef7ce00c661b42b4f397cb059bca27d0/2500687-D"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/840a57b4c8e8cede890d4b6528d94a37/2500688-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/5b45a44790888747dbd4e019fa243376/2500689-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/c3848299da615b0783d960102a3e591b/2500690-D"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/016399f05da19c1f1287e7de3bd148de/2500691-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/eaacd7679a51343170487156f70350e0/2500686-D",
+      "lat": 43.5496126,
+      "lng": 11.5619994,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2436637",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436637",
+      "img": "https://documents.astalegale.net/asta/0/B2436637?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Montemignaio - Via di Secchieta",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Montemignaio",
+      "indirizzo": "Via di Secchieta",
+      "procedura": "Esecuzioni civili 129/2022 Tribunale Arezzo",
+      "dataAsta": "2027-01-28T09:15",
+      "dataAstaLabel": "28/01/2027 09:15",
+      "prezzoBase": 17000,
+      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà per la quota dell’intero su appartamento di civile abitazione posto al piano secondo di più ampio fabbricato sito in Comune di Montemignaio (AR), loc. Secchieta, accessibile da vano scale o ascensore a comune, oltre a proporzionali diritti sui beni comuni non censibili.",
+      "categoria": "Abitazione",
+      "offertaMinima": 12750,
+      "terminePresentazione": "27/01/2027 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/9fd78efa244e852f3c368ddac3da86b8/2500647-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/bc140aa396bf6e75194c29d724ac05f6/2500646-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/91052560e3c00ab52b8c1dd58799a36a/2500648-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/91052560e3c00ab52b8c1dd58799a36a/2500648-D",
+      "lat": 43.7312508,
+      "lng": 11.575712,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2436638",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436638",
+      "img": "https://documents.astalegale.net/asta/0/B2436638?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Montemignaio - via di Secchieta snc",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Montemignaio",
+      "indirizzo": "via di Secchieta snc",
+      "procedura": "Esecuzioni civili 129/2022 Tribunale Arezzo",
+      "dataAsta": "2027-01-28T09:30",
+      "dataAstaLabel": "28/01/2027 09:30",
+      "prezzoBase": 18275,
+      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà per la quota dell’intero su appartamento di civile abitazione posto al piano secondo di più ampio fabbricato sito in Comune di Montemignaio (AR), loc. Secchieta, accessibile da vano scale o ascensore a comune, oltre a proporzionali diritti sui beni comuni non censibili.",
+      "categoria": "Abitazione",
+      "offertaMinima": 13706,
+      "terminePresentazione": "27/01/2027 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/9fd78efa244e852f3c368ddac3da86b8/2500647-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/bc140aa396bf6e75194c29d724ac05f6/2500646-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/91052560e3c00ab52b8c1dd58799a36a/2500648-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/91052560e3c00ab52b8c1dd58799a36a/2500648-D",
+      "lat": 43.7298529,
+      "lng": 11.5749273,
+      "geoPrecision": "indirizzo"
     }
   ]
 }

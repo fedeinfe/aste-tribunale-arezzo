@@ -718,5 +718,45 @@
     "lat": 43.4786,
     "lng": 11.8617159,
     "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Terranuova Bracciolini - Via Poggilupi, 1620, 52028 Terranuova Bracciolini AR, Italia": {
+    "lat": 43.5496126,
+    "lng": 11.5619994,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Montemignaio - Via di Secchieta": {
+    "lat": 43.7312508,
+    "lng": 11.575712,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Montemignaio - via di Secchieta snc": {
+    "lat": 43.7298529,
+    "lng": 11.5749273,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Cortona - Localita' Farneta, 35/A": {
+    "lat": 43.2752976,
+    "lng": 11.9850623,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Arezzo - Loc. La Selva - Frassineto": {
+    "lat": 43.4628957,
+    "lng": 11.8781675,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Arezzo - Via Molinara, 33": {
+    "lat": 43.4617268,
+    "lng": 11.8225908,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Terranuova Bracciolini - Frazione La Penna località La Steccata": {
+    "lat": 43.5588759,
+    "lng": 11.6086495,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Terranuova Bracciolini - Centro C'èntro storico, snc": {
+    "lat": 43.5588759,
+    "lng": 11.6086495,
+    "precision": "comune"
   }
 }
