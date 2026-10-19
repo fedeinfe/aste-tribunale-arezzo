@@ -1,814 +1,9 @@
 {
-  "scrapedAt": "2026-10-12T12:46:32.258Z",
+  "scrapedAt": "2026-10-19T10:31:24.580Z",
   "source": "https://www.tribunale.arezzo.giustizia.it/it/Aste/SearchImmobili",
-  "count": 102,
-  "geocoded": 102,
+  "count": 93,
+  "geocoded": 93,
   "items": [
-    {
-      "id": "B2424028",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424028",
-      "img": "https://documents.astalegale.net/asta/0/B2424028?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 55/2025 Tribunale Arezzo",
-      "dataAsta": "2026-10-13T09:00",
-      "dataAstaLabel": "13/10/2026 09:00",
-      "prezzoBase": 64345,
-      "tipologia": "Posto auto Unità immobiliare destinata a posto auto scoperto situata all’interno del resede condominiale del complesso Viale S. Margherita n. 58 posta al piano Terra",
-      "categoria": "Box / Garage",
-      "offertaMinima": 48258.75,
-      "terminePresentazione": "12/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/3963642ddf7abf7539869f0de9174569/2412962-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/88bf21c977caad3d2dd8d04bb57a8d6c/2412964-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/ec3afb4d7064283308bd195cf1539de4/2412975-B"
-        },
-        {
-          "label": "Dati Catastali",
-          "url": "https://documents.astalegale.net/file/0/d264d62a0a2afc02f97e1d9f92dd51af/2412974-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B",
-      "lat": 43.4721886,
-      "lng": 11.8793467,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2424026",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424026",
-      "img": "https://documents.astalegale.net/asta/0/B2424026?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 55/2025 Tribunale Arezzo",
-      "dataAsta": "2026-10-13T09:00",
-      "dataAstaLabel": "13/10/2026 09:00",
-      "prezzoBase": 80450,
-      "tipologia": "Abitazione di tipo civile Unità immobiliare costituente porzione di un più ampio edificio a schiera, destinata a civile abitazione",
-      "categoria": "Abitazione",
-      "offertaMinima": 60337.5,
-      "terminePresentazione": "12/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/3963642ddf7abf7539869f0de9174569/2412962-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/88bf21c977caad3d2dd8d04bb57a8d6c/2412964-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/c29759c07643362e29390eb498ce385e/2412951-B"
-        },
-        {
-          "label": "Dati Catastali",
-          "url": "https://documents.astalegale.net/file/0/efb1de522e7e0a5114f3b0ce3465fc18/2412950-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B",
-      "lat": 43.4721886,
-      "lng": 11.8793467,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2424027",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2424027",
-      "img": "https://documents.astalegale.net/asta/0/B2424027?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Arezzo",
-      "indirizzo": "Viale Santa Margherita, 56, 52100 Arezzo AR, Italia",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 55/2025 Tribunale Arezzo",
-      "dataAsta": "2026-10-13T09:00",
-      "dataAstaLabel": "13/10/2026 09:00",
-      "prezzoBase": 74480,
-      "tipologia": "Abitazione di tipo civile Unità immobiliare costituente porzione di un più ampio edificio a schiera, destinata alla civile abitazione, situata nel Comune di Arezzo, Viale S. Margherita 56, con ingresso indipendente esterno, posta al piano Terra, così composta: piano terra (H ml. 2.85) appartamento allo stato grezzo, privo di tramezzature interne, composto da un unico ampio locale",
-      "categoria": "Abitazione",
-      "offertaMinima": 55860,
-      "terminePresentazione": "12/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/3963642ddf7abf7539869f0de9174569/2412962-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/88bf21c977caad3d2dd8d04bb57a8d6c/2412964-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/98abb50554aa526a2cf3204e780ab7b4/2412966-B"
-        },
-        {
-          "label": "Dati Catastali",
-          "url": "https://documents.astalegale.net/file/0/3fba47b547fb21c897e27f32072c8595/2412965-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/39156f75898fe2203fe61416caa1e6d6/2412963-B",
-      "lat": 43.4721886,
-      "lng": 11.8793467,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2425210",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2425210",
-      "img": "https://documents.astalegale.net/asta/0/B2425210?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Montevarchi - Via Leona, 104, 52025 Levane AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Montevarchi",
-      "indirizzo": "Via Leona, 104, 52025 Levane AR, Italia",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 196/2024 Tribunale Arezzo",
-      "dataAsta": "2026-10-14T14:00",
-      "dataAstaLabel": "14/10/2026 14:00",
-      "prezzoBase": 71944,
-      "tipologia": "Abitazione di tipo civile Piena proprietà per l'intero di porzione di fabbricato sito in Montevarchi (AR), Frazione Levane, Via Leona n. 104, costituita da appartamento ad uso civile abitazione ubicato al piano primo, composto da ingresso, soggiorno-pranzo, cucinotto, disimpegno, due camere, locale accessorio, bagno e terrazza.",
-      "categoria": "Abitazione",
-      "offertaMinima": 53958,
-      "terminePresentazione": "13/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/bd3e1acfcbe9cd4bd6b394c7bd2b2346/2415330-D"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/a124d0025f242598bf93ed432d17f6dd/2415329-D"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/58688dbab42aafbc4d680454ecb5b4e2/2290700-D"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/e44bd7e7c01e2681a4052c742ed842c2/2290698-D"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/58688dbab42aafbc4d680454ecb5b4e2/2290700-D",
-      "lat": 43.4940141,
-      "lng": 11.6226514,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2428205",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428205",
-      "img": "https://documents.astalegale.net/asta/0/B2428205?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T10:00",
-      "dataAstaLabel": "15/10/2026 10:00",
-      "prezzoBase": 30475,
-      "tipologia": "Abitazione di tipo civile Piena proprietà di locale commerciale al piano terra, interno 14, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', con accesso dalla corte interna comune, composto da un vano destinato a negozio con antibagno e servizio igienico da rifinire. Superficie commerciale: mq. 83,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 22856.25,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/335e2119613349330b9657cb2de0b33c/1865659-C"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/644d0c98e4b098cbf0328a1d6aafeefe/1865657-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2421131",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2421131",
-      "img": "https://documents.astalegale.net/asta/0/B2421131?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Laterina Pergine Valdarno - Via Vallelunga, 4, 52019 Pergine Valdarno AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Laterina Pergine Valdarno",
-      "indirizzo": "Via Vallelunga, 4, 52019 Pergine Valdarno AR, Italia",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 210/2024 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T10:15",
-      "dataAstaLabel": "15/10/2026 10:15",
-      "prezzoBase": 20240,
-      "tipologia": "Fabbricato commerciale locale ad uso commerciale posto al piano terreno di immobile posto nel centro storico di Pergine Valdarno (Ar), via Vallelunga n. 4, zona dotata dei principali servizi pubblici e privati, caratterizzata da fabbricati storici in linea lungo strada, con attività commerciali di vicinato ai piani terra e abitazioni ai piani superiori, oltre a fabbricati condominiali, modeste attività artigianali e ... Prima Precedente 1 2 3 Successiva Ultima Precedente 1 2 3 Successiva Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
-      "categoria": "Terreno",
-      "offertaMinima": 15180,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/0eeca67a30161b35929baae695cf35ee/2426518-D"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/f158fb5ac0e7644a7e2001e2bc153581/2426519-D"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/ff058a099dd64a802b0ae2dba874d566/2426520-D"
-        },
-        {
-          "label": "Dati Catastali",
-          "url": "https://documents.astalegale.net/file/0/c2b1a347cb96958860f85c4f8f3c2eb4/2426512-D"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/f158fb5ac0e7644a7e2001e2bc153581/2426519-D",
-      "lat": 43.4925339,
-      "lng": 11.6880797,
-      "geoPrecision": "comune"
-    },
-    {
-      "id": "B2428253",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428253",
-      "img": "https://documents.astalegale.net/asta/0/B2428253?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T10:30",
-      "dataAstaLabel": "15/10/2026 10:30",
-      "prezzoBase": 113248,
-      "tipologia": "Fabbricato commerciale Piena proprietà di locale commerciale di grandi dimensioni al piano terra, interni 10 e 12, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', con accesso dalla corte interna comune, composto da un locale commerciale, oltre a ripostiglio, antibagno e tre servizi igienici. Superficie commerciale: mq. 360,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 84936,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/26261e208ab0f70d73f43a809f65350e/1865674-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2428254",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428254",
-      "img": "https://documents.astalegale.net/asta/0/B2428254?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T11:00",
-      "dataAstaLabel": "15/10/2026 11:00",
-      "prezzoBase": 58000,
-      "tipologia": "Fabbricato commerciale Piena proprietà di locale commerciale al piano terra, interno 8, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', con accesso dalla corte interna comune, composto da un vano destinato a negozio con antibagno e servizio igienico da rifinire. Superficie commerciale: mq. 158,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 43500,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/f2222f1afc5bc965aafadf6c5ce0d2fc/1865681-C"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/ff12c61d04984d946bc50df6c015020b/1865679-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2421132",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2421132",
-      "img": "https://documents.astalegale.net/asta/0/B2421132?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Laterina Pergine Valdarno - Via Vallelunga, 6, 52019 Pergine Valdarno AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Laterina Pergine Valdarno",
-      "indirizzo": "Via Vallelunga, 6, 52019 Pergine Valdarno AR, Italia",
-      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 210/2024 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T11:00",
-      "dataAstaLabel": "15/10/2026 11:00",
-      "prezzoBase": 58600,
-      "tipologia": "Abitazione di tipo civile Appartamento a Pergine Valdarno (Ar), Via Vallelunga 6, sito nel Comune di Laterina-Pergine Valdarno (Ar), zona dotata dei principali servizi pubblici e privati, caratterizzata da fabbricati storici in linea lungo strada, con attività commerciali di vicinato ai piani terra",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 43950,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/0eeca67a30161b35929baae695cf35ee/2426518-D"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/f158fb5ac0e7644a7e2001e2bc153581/2426519-D"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/ff058a099dd64a802b0ae2dba874d566/2426520-D"
-        },
-        {
-          "label": "Dati Catastali",
-          "url": "https://documents.astalegale.net/file/0/8225e10de8f1e04266c85e189988175e/2426521-D"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/f158fb5ac0e7644a7e2001e2bc153581/2426519-D",
-      "lat": 43.4925339,
-      "lng": 11.6880797,
-      "geoPrecision": "comune"
-    },
-    {
-      "id": "B2428255",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428255",
-      "img": "https://documents.astalegale.net/asta/0/B2428255?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T11:30",
-      "dataAstaLabel": "15/10/2026 11:30",
-      "prezzoBase": 58000,
-      "tipologia": "Fabbricato commerciale Piena proprietà di locale commerciale al piano terra, interno 6, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', con accesso dalla corte interna comune, composto da un vano destinato a negozio con antibagno e servizio igienico. Superficie commerciale: mq. 158,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 43500,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/209309693591443f883d27a538dfd310/1865686-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2428256",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428256",
-      "img": "https://documents.astalegale.net/asta/0/B2428256?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T12:00",
-      "dataAstaLabel": "15/10/2026 12:00",
-      "prezzoBase": 20186,
-      "tipologia": "Fabbricato commerciale Piena proprietà di locale commerciale al piano primo, interno 36, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', con accesso dalla corte interna comune, composto da un vano destinato a negozio con antibagno e due servizi igienici. Superficie commerciale: mq. 55,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 15139.5,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/3162c55f30afe8d3bb714218fa4d97ae/2169585-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/eb9b01ce9c650d4237e0e09484d8996a/1865701-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2428257",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428257",
-      "img": "https://documents.astalegale.net/asta/0/B2428257?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T12:30",
-      "dataAstaLabel": "15/10/2026 12:30",
-      "prezzoBase": 26412,
-      "tipologia": "Fabbricato commerciale Piena proprietà di locale commerciale al piano primo, interno 34, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', con accesso dalla corte interna comune, composto da un vano destinato a negozio con antibagno e due servizi igienici. Superficie commerciale: mq. 72,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 19809,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/cc45023dfd0c0e157990ca0876b96765/1865710-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2428258",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428258",
-      "img": "https://documents.astalegale.net/asta/0/B2428258?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T13:00",
-      "dataAstaLabel": "15/10/2026 13:00",
-      "prezzoBase": 173016,
-      "tipologia": "Fabbricato commerciale Piena proprietà di locale commerciale di grandi dimensioni al piano primo, interno 32, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', con accesso dalla corte interna comune, composto da un locale commerciale oltre a antibagno e servizio igienico da rifinire. Superficie commerciale: mq. 550,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 129762,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2428259",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428259",
-      "img": "https://documents.astalegale.net/asta/0/B2428259?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T14:00",
-      "dataAstaLabel": "15/10/2026 14:00",
-      "prezzoBase": 87000,
-      "tipologia": "Fabbricato commerciale Piena proprietà di locale commerciale al piano primo, interni 28 e 30, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', con accesso dalla corte interna comune, composto da un locale commerciale oltre ad ufficio, antibagno e tre servizi igienici. Superficie commerciale: mq. 246,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 65250,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/a5512434510819ae7b9bd2fd3add60ef/1865723-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2428260",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428260",
-      "img": "https://documents.astalegale.net/asta/0/B2428260?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T14:30",
-      "dataAstaLabel": "15/10/2026 14:30",
-      "prezzoBase": 89457,
-      "tipologia": "Fabbricato commerciale (ex Lotto 9) Piena proprietà di locale commerciale al piano primo, interni 28 e 30, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', con accesso dalla corte interna comune, composto da un vano destinato a negozio con antibagno e servizio igienico. Superficie commerciale: mq. 244,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 67092.75,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/45457fe4239e8a78ce1341bebabca1d2/1865725-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2428261",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428261",
-      "img": "https://documents.astalegale.net/asta/0/B2428261?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T15:00",
-      "dataAstaLabel": "15/10/2026 15:00",
-      "prezzoBase": 40305,
-      "tipologia": "Fabbricato commerciale (ex Lotto 13) Piena proprietà di locale commerciale al piano primo, interno 53, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', composto da un vano destinato a negozio con antibagno e servizio igienico. Superficie commerciale: mq. 110,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 30228.75,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/32a60f1b59e014aa09cce04901d83eb3/1865736-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
-    {
-      "id": "B2428262",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2428262",
-      "img": "https://documents.astalegale.net/asta/0/B2428262?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Foiano della Chiana - Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Foiano della Chiana",
-      "indirizzo": "Via delle Farniole, 36, 52045 Farniole AR, Italia",
-      "procedura": "Esecuzioni civili 143/2018 Tribunale Arezzo",
-      "dataAsta": "2026-10-15T15:30",
-      "dataAstaLabel": "15/10/2026 15:30",
-      "prezzoBase": 40305,
-      "tipologia": "Fabbricato commerciale (ex Lotto 14) Piena proprietà di locale commerciale al piano primo, interno 51, facente parte di un immobile destinato ad attività commerciale/artigianale/servizi denominato 'Parco Valdichiana', composto da un vano destinato a negozio con antibagno e servizio igienico. Superficie commerciale: mq. 110,00 circa.",
-      "categoria": "Commerciale / Ufficio",
-      "offertaMinima": 30228.75,
-      "terminePresentazione": "14/10/2026 13:00",
-      "modalitaGara": null,
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/4d7275069d77e8694c4566438c9a5132/2455501-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/7501608c98a0cca128ffe51750f29ee0/2455497-B"
-        },
-        {
-          "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B"
-        },
-        {
-          "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/42c1b8e042b500198ab9851068e98289/2455499-B"
-        },
-        {
-          "label": "Perizia 3",
-          "url": "https://documents.astalegale.net/file/0/e85a6697eac5bb70a157c50f9d2a42f7/2455500-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/27e0b33caacef3f9d0033a4c6c90d298/1865738-C"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/dd007a406bef826ef9b80e4ec8ec176e/2455498-B",
-      "lat": 43.2220572,
-      "lng": 11.8102026,
-      "geoPrecision": "indirizzo"
-    },
     {
       "id": "B2423045",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2423045",
@@ -822,7 +17,7 @@
       "dataAsta": "2026-10-20T09:00",
       "dataAstaLabel": "20/10/2026 09:00",
       "prezzoBase": 34800,
-      "tipologia": "Abitazione di tipo rurale Diritto di piena proprietà per la quota dell'intero su terreni agricoli e rustico della superficie commerciale di 31,50 mq posti in Sansepolcro (AR) Via di Montevicchi Snc Frazione Località Farneto / Paradiso /Basilica Prima Precedente 1 2 3 Precedente 1 2 3 Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
+      "tipologia": "Abitazione di tipo rurale Diritto di piena proprietà per la quota dell'intero su terreni agricoli e rustico della superficie commerciale di 31,50 mq posti in Sansepolcro (AR) Via di Montevicchi Snc Frazione Località Farneto / Paradiso /Basilica Prima Precedente 1 2 Precedente 1 2 Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
       "categoria": "Terreno",
       "offertaMinima": 26100,
       "terminePresentazione": "19/10/2026 13:00",
@@ -1305,7 +500,7 @@
       "dataAsta": "2026-10-21T16:00",
       "dataAstaLabel": "21/10/2026 16:00",
       "prezzoBase": 209820,
-      "tipologia": "Abitazione di tipo civile Unità immobiliare con destinazione d'uso residenziale , posta al piano secondo di un fabbricato di più ampia consistenza avente la medesima destinazione, con una superficie commerciale di 102,40 mq. L’unità immobiliare è corredata, inoltre, da una soffitta non abitabile al piano sottotetto e da una cantina al piano terra. Completa il lotto un terreno ad uso ortivo situato a un livello inferiore...",
+      "tipologia": "Abitazione di tipo civile Unità immobiliare con destinazione d'uso residenziale , posta al piano secondo di un fabbricato di più ampia consistenza avente la medesima destinazione, con una superficie commerciale di 102,40 mq. L’unità immobiliare è corredata, inoltre, da una soffitta non abitabile al piano sottotetto e da una cantina al piano terra. Completa il lotto un terreno ad uso ortivo situato a un livello inferiore... RINVIATA",
       "categoria": "Terreno",
       "offertaMinima": 157365,
       "terminePresentazione": "20/10/2026 13:00",
@@ -1322,6 +517,10 @@
         {
           "label": "Perizia",
           "url": "https://documents.astalegale.net/file/0/cca1a54ef918c02c90859eed1252adfd/2461332-B"
+        },
+        {
+          "label": "Verbale di Sospensione",
+          "url": "https://documents.astalegale.net/file/0/7fcc8bedb54767291852edf18c95ec39/2506289-C"
         }
       ],
       "perizia": "https://documents.astalegale.net/file/0/cca1a54ef918c02c90859eed1252adfd/2461332-B",
@@ -2575,6 +1774,43 @@
       "geoPrecision": "comune"
     },
     {
+      "id": "B2432587",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432587",
+      "img": "https://documents.astalegale.net/asta/0/B2432587?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Monte San Savino - località Verniana - via la Costa snc",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Monte San Savino",
+      "indirizzo": "località Verniana - via la Costa snc",
+      "procedura": "Esecuzioni civili 4/2016 Tribunale Arezzo",
+      "dataAsta": "2026-11-24T09:00",
+      "dataAstaLabel": "24/11/2026 09:00",
+      "prezzoBase": 18700,
+      "tipologia": "Terreno Lotto 4 Diritto di piena proprietà per l’intero di alcuni appezzamenti di terreno ad uso agricolo siti in Comune di Monte San Savino (AR), Loc Verniana , via La Costa snc, ed individuati nel Regolamento Urbanistico del Comune di Monte San Savino all’interno della Zona “E1 – il sistema del bosco e degli oliveti terrazzati",
+      "categoria": "Terreno",
+      "offertaMinima": 14040,
+      "terminePresentazione": "23/11/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/ae16ba21c723bffd536faacc0790e425/2491616-B"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/62183486612871af936c4af4247f8c1e/2491618-B"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/c84b83b88f420af97ac77d0f9f80c3a2/2491617-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/c84b83b88f420af97ac77d0f9f80c3a2/2491617-B",
+      "lat": 43.3434908,
+      "lng": 11.6993695,
+      "geoPrecision": "comune"
+    },
+    {
       "id": "B2432568",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432568",
       "img": "https://documents.astalegale.net/asta/0/B2432568?w=536&h=360&zl=14",
@@ -2611,43 +1847,6 @@
         }
       ],
       "perizia": "https://documents.astalegale.net/file/0/dbc7eecf1f52b2b936bc165c580d56c5/1628810-C",
-      "lat": 43.3434908,
-      "lng": 11.6993695,
-      "geoPrecision": "comune"
-    },
-    {
-      "id": "B2432587",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432587",
-      "img": "https://documents.astalegale.net/asta/0/B2432587?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Monte San Savino - località Verniana - via la Costa snc",
-      "regione": "Toscana",
-      "provincia": "Arezzo",
-      "comune": "Monte San Savino",
-      "indirizzo": "località Verniana - via la Costa snc",
-      "procedura": "Esecuzioni civili 4/2016 Tribunale Arezzo",
-      "dataAsta": "2026-11-24T09:00",
-      "dataAstaLabel": "24/11/2026 09:00",
-      "prezzoBase": 18700,
-      "tipologia": "Terreno Lotto 4 Diritto di piena proprietà per l’intero di alcuni appezzamenti di terreno ad uso agricolo siti in Comune di Monte San Savino (AR), Loc Verniana , via La Costa snc, ed individuati nel Regolamento Urbanistico del Comune di Monte San Savino all’interno della Zona “E1 – il sistema del bosco e degli oliveti terrazzati",
-      "categoria": "Terreno",
-      "offertaMinima": 14040,
-      "terminePresentazione": "23/11/2026 13:00",
-      "modalitaGara": "Sincrona mista",
-      "documenti": [
-        {
-          "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/ae16ba21c723bffd536faacc0790e425/2491616-B"
-        },
-        {
-          "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/62183486612871af936c4af4247f8c1e/2491618-B"
-        },
-        {
-          "label": "Perizia",
-          "url": "https://documents.astalegale.net/file/0/c84b83b88f420af97ac77d0f9f80c3a2/2491617-B"
-        }
-      ],
-      "perizia": "https://documents.astalegale.net/file/0/c84b83b88f420af97ac77d0f9f80c3a2/2491617-B",
       "lat": 43.3434908,
       "lng": 11.6993695,
       "geoPrecision": "comune"
@@ -3199,6 +2398,104 @@
       "geoPrecision": "indirizzo"
     },
     {
+      "id": "B2437666",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2437666",
+      "img": "https://documents.astalegale.net/asta/0/B2437666?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Vocabolo Carbonaia Località Ponte a Chiani",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Arezzo",
+      "indirizzo": "Vocabolo Carbonaia Località Ponte a Chiani",
+      "procedura": "Procedure concorsuali / Concordato Preventivo omologato (CCI) 2/2025 Tribunale Arezzo",
+      "dataAsta": "2026-12-02T09:30",
+      "dataAstaLabel": "02/12/2026 09:30",
+      "prezzoBase": 197300,
+      "tipologia": "Laboratorio artigiano VENDITA GIUDIZIALE - Piena proprietà di unità immobiliare a destinazione d’uso artigianale/commerciale, asservita dalla viabilità comunale di via Giacomo Konz nc 36. L’area ove sorge il complesso edilizio, nel “Piano Operativo Comunale”, è normata dall’articolo 129 dei Piani Attuativi. Per maggiori informazioni rivolgersi al dott.Gianluca Poggiaroni - gianluca@itasset.it mob.3386230816",
+      "categoria": "Industriale / Magazzino",
+      "offertaMinima": 197300,
+      "terminePresentazione": "30/11/2026 13:00",
+      "modalitaGara": null,
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/2e5144e38bb65ef49477e3a0876bc1ee/2505052-D"
+        },
+        {
+          "label": "Convenzione edilizia 2003 1",
+          "url": "https://documents.astalegale.net/file/0/fb1c7c3c3ea89a8c5ab4207cf642d880/2183940-B"
+        },
+        {
+          "label": "Convenzione edilizia del 2000 2",
+          "url": "https://documents.astalegale.net/file/0/0f4a06136f364f5d55b2c490d44d4514/2183941-B"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/94065642dbeed75ba330994a18899337/2505049-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/c82ad511b6f34dc9cc65b7ac4c86b31e/2505050-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/79113c9a30a256d1c2a72572081e0dde/2505051-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/94065642dbeed75ba330994a18899337/2505049-D",
+      "lat": 43.4628957,
+      "lng": 11.8781675,
+      "geoPrecision": "comune"
+    },
+    {
+      "id": "B2437667",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2437667",
+      "img": "https://documents.astalegale.net/asta/0/B2437667?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Comune di Arezzo, Località Ponte a Chiani, Vocabolo Carbonaia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Arezzo",
+      "indirizzo": "Comune di Arezzo, Località Ponte a Chiani, Vocabolo Carbonaia",
+      "procedura": "Procedure concorsuali / Concordato Preventivo omologato (CCI) 2/2025 Tribunale Arezzo",
+      "dataAsta": "2026-12-02T09:30",
+      "dataAstaLabel": "02/12/2026 09:30",
+      "prezzoBase": 148200,
+      "tipologia": "Fabbricato VENDITA GIUDIZIARIA: Unità immobiliare in “corso di ultimazione”, ubicata nel Comune di Arezzo, Località Ponte a Chiani, Vocabolo Carbonaia, asservita dalla viabilità comunale. Per maggiori informazioni rivolgersi al dott.Gianluca Poggiaroni email: gianluca@itasset.it mob.338/6230816",
+      "categoria": "Fabbricato",
+      "offertaMinima": 148200,
+      "terminePresentazione": "30/11/2026 13:00",
+      "modalitaGara": null,
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/2e5144e38bb65ef49477e3a0876bc1ee/2505052-D"
+        },
+        {
+          "label": "Convenzione Edilizia 2003 1",
+          "url": "https://documents.astalegale.net/file/0/c56dd13ac94eb269698d2739997322f7/2183977-B"
+        },
+        {
+          "label": "Convenzione Edilizia 2000 2",
+          "url": "https://documents.astalegale.net/file/0/bd8e61b43e53703015ccfbb674d23cb5/2183978-B"
+        },
+        {
+          "label": "Perizia 3",
+          "url": "https://documents.astalegale.net/file/0/94065642dbeed75ba330994a18899337/2505049-D"
+        },
+        {
+          "label": "Perizia 4",
+          "url": "https://documents.astalegale.net/file/0/c82ad511b6f34dc9cc65b7ac4c86b31e/2505050-D"
+        },
+        {
+          "label": "Perizia 5",
+          "url": "https://documents.astalegale.net/file/0/79113c9a30a256d1c2a72572081e0dde/2505051-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/94065642dbeed75ba330994a18899337/2505049-D",
+      "lat": 43.4667641,
+      "lng": 11.882269,
+      "geoPrecision": "indirizzo"
+    },
+    {
       "id": "B2430199",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2430199",
       "img": "https://documents.astalegale.net/asta/0/B2430199?w=536&h=360&zl=14",
@@ -3211,7 +2508,7 @@
       "dataAsta": "2026-12-02T10:00",
       "dataAstaLabel": "02/12/2026 10:00",
       "prezzoBase": 146000,
-      "tipologia": "Abitazione di tipo civile Piena proprietà di porzione immobiliare (appartamento e locale autorimessa) facente parte di un fabbricato di maggior dimensione, ubicata in Arezzo Via Alessandro Del Vita n. 31, all'interno della lottizzazione denominata “La Marchionna”. L'appartamento, posto al piano primo, è composto da ingresso, cucina, disimpegno, bagno, ripostiglio, due camere e due ampie logge. Il locale autorimessa si t...",
+      "tipologia": "Abitazione di tipo civile Piena proprietà di porzione immobiliare (appartamento e locale autorimessa) facente parte di un fabbricato di maggior dimensione, ubicata in Arezzo Via Alessandro Del Vita n. 31, all'interno della lottizzazione denominata “La Marchionna”. L'appartamento, posto al piano primo, è composto da ingresso, cucina, disimpegno, bagno, ripostiglio, due camere e due ampie logge. Il locale autorimessa si t... 1 2 Successiva Ultima 1 2 Successiva Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
       "categoria": "Box / Garage",
       "offertaMinima": 109500,
       "terminePresentazione": "01/12/2026 13:00",
@@ -3354,53 +2651,45 @@
       "geoPrecision": "comune"
     },
     {
-      "id": "B2435186",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2435186",
-      "img": "https://documents.astalegale.net/asta/0/B2435186?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Badia Tedalda - Via Lusato, 95, 52032 Pratieghi AR, Italia",
+      "id": "B2432567",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2432567",
+      "img": "https://documents.astalegale.net/asta/0/B2432567?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Subbiano - Via Signorini, 30, 52010 Subbiano AR, Italia",
       "regione": "Toscana",
       "provincia": "Arezzo",
-      "comune": "Badia Tedalda",
-      "indirizzo": "Via Lusato, 95, 52032 Pratieghi AR, Italia",
-      "procedura": "Esecuzioni civili 19/2022 Tribunale Arezzo",
-      "dataAsta": "2026-12-02T16:00",
-      "dataAstaLabel": "02/12/2026 16:00",
-      "prezzoBase": 147865.6,
-      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà su due fabbricati urbani ad uso di civili abitazioni entrambi adibiti in precedenza a Bed and Breakfast, con annesso relativo resede e terreno pertinenziale, il tutto posto in Comune di Badia Tedalda (Ar), Località Pratieghi, Via Lusato, 95",
-      "categoria": "Terreno",
-      "offertaMinima": 110899.2,
+      "comune": "Subbiano",
+      "indirizzo": "Via Signorini, 30, 52010 Subbiano AR, Italia",
+      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 209/2024 Tribunale Arezzo",
+      "dataAsta": "2026-12-02T15:00",
+      "dataAstaLabel": "02/12/2026 15:00",
+      "prezzoBase": 100240,
+      "tipologia": "Laboratorio artigiano Fondo ad uso artigianale attualmente adibito a palestra",
+      "categoria": "Industriale / Magazzino",
+      "offertaMinima": 75180,
       "terminePresentazione": "01/12/2026 13:00",
       "modalitaGara": "Sincrona mista",
       "documenti": [
         {
           "label": "Avviso di Vendita",
-          "url": "https://documents.astalegale.net/file/0/865bea4d834cf05c8ecf6d5f236c6c90/2491384-B"
+          "url": "https://documents.astalegale.net/file/0/9a92d0b8b305fe619756dc769b1b71ff/2508707-D"
         },
         {
           "label": "Ordinanza",
-          "url": "https://documents.astalegale.net/file/0/ca6a4fe254426754d9542452950e915e/2491383-B"
+          "url": "https://documents.astalegale.net/file/0/3eefa4e65b0c68bc89e77ce3dac954a2/2508706-D"
         },
         {
           "label": "Perizia 1",
-          "url": "https://documents.astalegale.net/file/0/f1b7e3dbf39fd239ab2d5efd49acb9ac/1974533-B"
+          "url": "https://documents.astalegale.net/file/0/b408635d8e14972bcc7b4ed2cb0eac37/2394372-D"
         },
         {
           "label": "Perizia 2",
-          "url": "https://documents.astalegale.net/file/0/622abb35205bfef1dc66b134be0356b3/2214388-B"
-        },
-        {
-          "label": "Documento con foto",
-          "url": "https://documents.astalegale.net/file/0/cc66cb939c864f25fde7f0b1259999fb/1974532-B"
-        },
-        {
-          "label": "Planimetria",
-          "url": "https://documents.astalegale.net/file/0/a6bd3f1ab05906cb9b64e48bf90b8451/1974534-B"
+          "url": "https://documents.astalegale.net/file/0/7c7774b82de4868050604c33d7158846/2394373-D"
         }
       ],
-      "perizia": "https://documents.astalegale.net/file/0/f1b7e3dbf39fd239ab2d5efd49acb9ac/1974533-B",
-      "lat": 43.7092081,
-      "lng": 12.1848762,
-      "geoPrecision": "comune"
+      "perizia": "https://documents.astalegale.net/file/0/b408635d8e14972bcc7b4ed2cb0eac37/2394372-D",
+      "lat": 43.5827769,
+      "lng": 11.8713614,
+      "geoPrecision": "indirizzo"
     },
     {
       "id": "B2431236",
@@ -3467,7 +2756,7 @@
       "tipologia": "Abitazione di tipo civile Piena proprietà appartamento in Chiusi della Verna (AR), Via Roma n. 86: ingresso, soggiorno, due camere, cucina, bagno, a piano terra, oltre a cantina a piano interrato. A piano seminterrato, è ubicato un resede di pertinenza. Resede a comune antistante la via pubblica. L’appartamento a piano terra ha superficie netta di mq. 71,8, la cantina di mq. 44,2. L’unità immobiliare manifesta uno stato...",
       "categoria": "Abitazione",
       "offertaMinima": 23250,
-      "terminePresentazione": "08/12/2026 13:00",
+      "terminePresentazione": "04/12/2026 13:00",
       "modalitaGara": "Sincrona mista",
       "documenti": [
         {
@@ -3494,6 +2783,43 @@
       "perizia": "https://documents.astalegale.net/file/0/df67a166e43f7cf947d323227ac26d6b/2464715-B",
       "lat": 43.6950243,
       "lng": 11.9386322,
+      "geoPrecision": "comune"
+    },
+    {
+      "id": "B2430725",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2430725",
+      "img": "https://documents.astalegale.net/asta/0/B2430725?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Cavriglia - Via dei Pioppi, 52022 Neri AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Cavriglia",
+      "indirizzo": "Via dei Pioppi, 52022 Neri AR, Italia",
+      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 147/2024 Tribunale Arezzo",
+      "dataAsta": "2026-12-10T09:00",
+      "dataAstaLabel": "10/12/2026 09:00",
+      "prezzoBase": 57000,
+      "tipologia": "Abitazione di tipo civile Abitazione posta al piano primo, a destra rispetto alla scala interna condominiale composta da tre vani oltre disimpegno, servizio igienico ed accessori, tra cui due terrazzi ed unpiccolo ripostiglio soprascala con accesso dalla scala interna condominiale.Il fabbricato è costituito da due piani fuori terra con struttura in muratura portante di laterizio, solai inlaterocemento, tetto a padiglion...",
+      "categoria": "Abitazione",
+      "offertaMinima": 42750,
+      "terminePresentazione": "09/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/7f7aea101d5e1a73482177eeaf64cd61/2502782-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/94ee4fa5b0594d393cf7a5969b5dd13d/2502783-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/dad04ba715e7a80b831d446dec60044d/2502780-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/dad04ba715e7a80b831d446dec60044d/2502780-D",
+      "lat": 43.5218737,
+      "lng": 11.4889722,
       "geoPrecision": "comune"
     },
     {
@@ -3616,9 +2942,25 @@
         {
           "label": "Ordinanza",
           "url": "https://documents.astalegale.net/file/0/01792b5f9b899ff74e1fb67b84de45cd/2491906-B"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/f3eb3a202f3fca618baa68cf1f591640/2506091-D"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/3a87c216ed0b31714d71cf8264952cdd/2506092-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/7527b18117258da62457d775a2a06c45/2506089-D"
+        },
+        {
+          "label": "Dati Catastali",
+          "url": "https://documents.astalegale.net/file/0/0ff28332b5a99e46af52a57d6bc77e8e/2506090-D"
         }
       ],
-      "perizia": null,
+      "perizia": "https://documents.astalegale.net/file/0/f3eb3a202f3fca618baa68cf1f591640/2506091-D",
       "lat": 43.4671563,
       "lng": 11.8251439,
       "geoPrecision": "indirizzo"
@@ -5216,6 +4558,96 @@
       "geoPrecision": "indirizzo"
     },
     {
+      "id": "B2437737",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2437737",
+      "img": "https://documents.astalegale.net/asta/0/B2437737?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Castiglion Fibocchi - Loc. Gello Biscardo n. 4",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Castiglion Fibocchi",
+      "indirizzo": "Loc. Gello Biscardo n. 4",
+      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 216/2024 Tribunale Arezzo",
+      "dataAsta": "2026-12-22T09:00",
+      "dataAstaLabel": "22/12/2026 09:00",
+      "prezzoBase": 102153.6,
+      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà per la quota dell'intero su due appartamenti posti in Castiglion Fibocchi (AR) Loc. Gello Biscardo n. 4 della superficie commerciale rispettivamente di mq. 88,15 e 62,39",
+      "categoria": "Commerciale / Ufficio",
+      "offertaMinima": 76615.2,
+      "terminePresentazione": "21/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/9f256c48a70605a2aab6101cafdb5145/2506295-C"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/44041d91ac69bd8510816dde6ee2a0ad/2506294-C"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/4181757c2dfb14cf0d8bd74d60be369f/2508710-D"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/d54f4c76b1a900a1615a4830d1cbf008/2380665-B"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/4181757c2dfb14cf0d8bd74d60be369f/2508710-D",
+      "lat": 43.5279646,
+      "lng": 11.7631758,
+      "geoPrecision": "comune"
+    },
+    {
+      "id": "B2437909",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2437909",
+      "img": "https://documents.astalegale.net/asta/0/B2437909?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Anghiari - Via del Campo della Fiera, 10, 52031 Anghiari AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Anghiari",
+      "indirizzo": "Via del Campo della Fiera, 10, 52031 Anghiari AR, Italia",
+      "procedura": "Esecuzioni Civili Immobiliari / Espropriazione Immobiliare (Cartabia) 45/2025 Tribunale Arezzo",
+      "dataAsta": "2026-12-22T10:00",
+      "dataAstaLabel": "22/12/2026 10:00",
+      "prezzoBase": 296453.6,
+      "tipologia": "Fabbricato commerciale DIRITTO DI PIENA PROPRIETA' PER L'INTERO SU LOCALE AD USO COMMERCIALE SITO IN COMUNE DI ANGHIARI (AR) VIA CAMPO DELLA FIERA N. 10 ED ANNESSO RESEDE RESIDENZIALE.",
+      "categoria": "Commerciale / Ufficio",
+      "offertaMinima": 222340.2,
+      "terminePresentazione": "21/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/3875359079af437c1353b8ab43fde0ed/2509253-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/5e93c648bf5cd8e194c0ad3af6eeebe1/2509252-D"
+        },
+        {
+          "label": "Perizia 1",
+          "url": "https://documents.astalegale.net/file/0/3f916ac0fd58e8864372521440afaff8/2385757-C"
+        },
+        {
+          "label": "Perizia 2",
+          "url": "https://documents.astalegale.net/file/0/36f28981df9e284f52da6ac69212c966/2385758-C"
+        },
+        {
+          "label": "Documento con foto",
+          "url": "https://documents.astalegale.net/file/0/351e56072ab8905845fc956867f36558/2385759-C"
+        },
+        {
+          "label": "Planimetria",
+          "url": "https://documents.astalegale.net/file/0/93452850e133fec88a567069751212dd/2385756-C"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/3f916ac0fd58e8864372521440afaff8/2385757-C",
+      "lat": 43.5409662,
+      "lng": 12.0545815,
+      "geoPrecision": "comune"
+    },
+    {
       "id": "B2434016",
       "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2434016",
       "img": "https://documents.astalegale.net/asta/0/B2434016?w=536&h=360&zl=14",
@@ -5306,8 +4738,8 @@
       "dataAsta": "2026-12-23T11:00",
       "dataAstaLabel": "23/12/2026 11:00",
       "prezzoBase": 25000,
-      "tipologia": "Abitazione di tipo civile appartamento a destinazione residenziale, posto al primo piano di un più ampio fabbricato condominiale di tre piani fuori terra (denominato “Villa Enza”), ubicato nel centro abitato di Gatteo Mare (FC), Via Venezia n. 4, a circa 350 metri dalla spiaggia, composto da due vani oltre servizio igienico, il tutto contraddistinto al Catasto Fabbricati del Comu-ne di Gatteo (FC) al foglio 1, particell... 1 2 3 Successiva Ultima 1 2 3 Successiva Astalegale.net SpA offre un servizio di assistenza telefonica a tutti gli utenti attraverso un call center attivo dal lunedì al venerdì: 02 800 300 Accessibilità Privacy Realizzato da Astalegale.net SpA e Tribunale di Arezzo - Ufficio Progettazione, Innovazione e Transizione Digitale Questo sito usa i cookie per migliorare la tua esperienza di navigazione. Continuando a visitare il sito ne accetti l'uso. Più informazioni Accetto",
-      "categoria": "Commerciale / Ufficio",
+      "tipologia": "Abitazione di tipo civile appartamento a destinazione residenziale, posto al primo piano di un più ampio fabbricato condominiale di tre piani fuori terra (denominato “Villa Enza”), ubicato nel centro abitato di Gatteo Mare (FC), Via Venezia n. 4, a circa 350 metri dalla spiaggia, composto da due vani oltre servizio igienico, il tutto contraddistinto al Catasto Fabbricati del Comu-ne di Gatteo (FC) al foglio 1, particell...",
+      "categoria": "Abitazione",
       "offertaMinima": 20000,
       "terminePresentazione": "22/12/2026 13:00",
       "modalitaGara": "Sincrona",
@@ -5490,7 +4922,7 @@
       "dataAsta": "2027-01-12T12:00",
       "dataAstaLabel": "12/01/2027 12:00",
       "prezzoBase": 128563,
-      "tipologia": "Terreno In Comune di Arezzo, Località Ponte a Chiani, all’interno di area oggetto del Piano Particolareggiato del comparto Zona per attività produttive ‘Ponte a Chiani’, diritto di piena proprietà per l’intero (1/1) su appezzamenti di terreno edificabile della superficie nominale complessiva di 6.200 metri quadrati.",
+      "tipologia": "Terreno In Comune di Arezzo, Località Ponte a Chiani, all’interno di area oggetto del Piano Particolareggiato del comparto Zona per attività produttive ‘Ponte a Chiani’, dirittodi piena proprietà per l’intero (1/1) su appezzamenti di terreno edificabile della superficie nominale complessiva di 6.200 metri quadrati.",
       "categoria": "Terreno",
       "offertaMinima": 128563,
       "terminePresentazione": "11/01/2027 13:00",
@@ -5523,20 +4955,131 @@
       "geoPrecision": "indirizzo"
     },
     {
-      "id": "B2436779",
-      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436779",
-      "img": "https://documents.astalegale.net/asta/0/B2436779?w=536&h=360&zl=14",
-      "locationRaw": "Toscana > Arezzo > Arezzo - Via Molinara, 33",
+      "id": "B2437741",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2437741",
+      "img": "https://documents.astalegale.net/asta/0/B2437741?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Via Tommaso Perelli, 52100 Arezzo AR, Italia",
       "regione": "Toscana",
       "provincia": "Arezzo",
       "comune": "Arezzo",
-      "indirizzo": "Via Molinara, 33",
+      "indirizzo": "Via Tommaso Perelli, 52100 Arezzo AR, Italia",
+      "procedura": "Esecuzioni civili 71/2019 Tribunale Arezzo",
+      "dataAsta": "2027-01-14T09:00",
+      "dataAstaLabel": "14/01/2027 09:00",
+      "prezzoBase": 67200,
+      "tipologia": "Fabbricato commerciale Diritto di piena proprietà per l’intero su di un locale a destinazione commerciale, posto a piano terra di una palazzina situata in via Tommaso Perelli al civico 18, nella zona residenziale denominata “La Marchionna. con superficie commerciale di mq 103,80. rappresentato al Catasto Fabbricati Comune di Arezzo, sez. A,Foglio 110, particella 81 sub. 1, categoria C/1, classe 10, con. 77 m², Sup. ...",
+      "categoria": "Commerciale / Ufficio",
+      "offertaMinima": 50400,
+      "terminePresentazione": "13/12/2026 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/789962d0fb769964bb9bcefeecc6c98c/2509104-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/c7f0c7e8becf6ffd4c5b1b744ca47a16/2509103-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/20770ada3acbb22ce793fec7628b964e/2509102-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/20770ada3acbb22ce793fec7628b964e/2509102-D",
+      "lat": 43.4592617,
+      "lng": 11.9046103,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2437742",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2437742",
+      "img": "https://documents.astalegale.net/asta/0/B2437742?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Via Tommaso Perelli 16, 52100 Arezzo AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Arezzo",
+      "indirizzo": "Via Tommaso Perelli 16, 52100 Arezzo AR, Italia",
+      "procedura": "Esecuzioni civili 71/2019 Tribunale Arezzo",
+      "dataAsta": "2027-01-14T09:00",
+      "dataAstaLabel": "14/01/2027 09:00",
+      "prezzoBase": 111000,
+      "tipologia": "Abitazione di tipo civile Diritto di piena proprietà per l’intero su di un appartamento di civile abitazione posto in Arezzo (AR), Via Tommaso Perelli n°16, avente superficie commerciale di mq 122.40. -Foglio 110 particella 81, subalterno 3, categoria A/3, classe 5, consistenza 5,5 vani, Superficie catastale – escluse aree scoperte – 108 m², Rendita € 326,66.",
+      "categoria": "Commerciale / Ufficio",
+      "offertaMinima": 83250,
+      "terminePresentazione": "13/01/2027 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/789962d0fb769964bb9bcefeecc6c98c/2509104-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/c7f0c7e8becf6ffd4c5b1b744ca47a16/2509103-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/20770ada3acbb22ce793fec7628b964e/2509102-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/20770ada3acbb22ce793fec7628b964e/2509102-D",
+      "lat": 43.4592617,
+      "lng": 11.9046103,
+      "geoPrecision": "indirizzo"
+    },
+    {
+      "id": "B2437744",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2437744",
+      "img": "https://documents.astalegale.net/asta/0/B2437744?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Civitella in Val di Chiana - loc belvedere - Pieve A Maiano AR, Italia",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Civitella in Val di Chiana",
+      "indirizzo": "loc belvedere - Pieve A Maiano AR, Italia",
+      "procedura": "Esecuzioni civili 71/2019 Tribunale Arezzo",
+      "dataAsta": "2027-01-14T09:00",
+      "dataAstaLabel": "14/01/2027 09:00",
+      "prezzoBase": 122400,
+      "tipologia": "Abitazione di tipo civile Unità immobiliare ad uso rurale facente parte di un più ampio fabbricato costituito da altre due unità immobiliari destinate alla civile abitazione. ha una superficie commerciale di mq. 187, mentre l’annesso rappresentato dalla p.lla. 432 ha una superficie commerciale di mq. 36 e quello rappresentato dalla p.lla 433 ha una superficie commerciale di mq. 42. -Foglio 6, particella 126, subalterno...",
+      "categoria": "Commerciale / Ufficio",
+      "offertaMinima": 91800,
+      "terminePresentazione": "13/01/2027 13:00",
+      "modalitaGara": "Sincrona mista",
+      "documenti": [
+        {
+          "label": "Avviso di Vendita",
+          "url": "https://documents.astalegale.net/file/0/789962d0fb769964bb9bcefeecc6c98c/2509104-D"
+        },
+        {
+          "label": "Ordinanza",
+          "url": "https://documents.astalegale.net/file/0/c7f0c7e8becf6ffd4c5b1b744ca47a16/2509103-D"
+        },
+        {
+          "label": "Perizia",
+          "url": "https://documents.astalegale.net/file/0/20770ada3acbb22ce793fec7628b964e/2509102-D"
+        }
+      ],
+      "perizia": "https://documents.astalegale.net/file/0/20770ada3acbb22ce793fec7628b964e/2509102-D",
+      "lat": 43.4025271,
+      "lng": 11.7355862,
+      "geoPrecision": "comune"
+    },
+    {
+      "id": "B2436779",
+      "url": "https://www.tribunale.arezzo.giustizia.it/it/Aste/DettaglioImmobile/B2436779",
+      "img": "https://documents.astalegale.net/asta/0/B2436779?w=536&h=360&zl=14",
+      "locationRaw": "Toscana > Arezzo > Arezzo - Via Molinara 33",
+      "regione": "Toscana",
+      "provincia": "Arezzo",
+      "comune": "Arezzo",
+      "indirizzo": "Via Molinara 33",
       "procedura": "Procedure concorsuali / Fallimentare 41/2018 Tribunale Arezzo",
       "dataAsta": "2027-01-19T09:00",
       "dataAstaLabel": "19/01/2027 09:00",
       "prezzoBase": 618658,
-      "tipologia": "Fabbricato commerciale Diritto di piena proprietà per l'intero (1/1) su complesso immobiliare ad uso commerciale, artigianale e direzionale costituito da edificio di recente edificazione dislocato su più piani fuori terra, corredato da ampia autorimessa al pianto interrato, da aree scoperte e da resede pertinenziale adibiti a parcheggi ed integrato dai proporzionali diritti di comproprietà sulle parti ad uso comune e...",
-      "categoria": "Box / Garage",
+      "tipologia": "Fabbricato commerciale Diritto di piena proprietà per l'intero (1/1) su complesso immobiliare ad uso commerciale, artigianale e direzionale",
+      "categoria": "Commerciale / Ufficio",
       "offertaMinima": 618658,
       "terminePresentazione": "18/01/2027 13:00",
       "modalitaGara": "Sincrona mista",

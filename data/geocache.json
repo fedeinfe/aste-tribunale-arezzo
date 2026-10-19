@@ -758,5 +758,25 @@
     "lat": 43.5588759,
     "lng": 11.6086495,
     "precision": "comune"
+  },
+  "Toscana > Arezzo > Arezzo - Via Tommaso Perelli, 52100 Arezzo AR, Italia": {
+    "lat": 43.4592617,
+    "lng": 11.9046103,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Arezzo - Via Tommaso Perelli 16, 52100 Arezzo AR, Italia": {
+    "lat": 43.4592617,
+    "lng": 11.9046103,
+    "precision": "indirizzo"
+  },
+  "Toscana > Arezzo > Civitella in Val di Chiana - loc belvedere - Pieve A Maiano AR, Italia": {
+    "lat": 43.4025271,
+    "lng": 11.7355862,
+    "precision": "comune"
+  },
+  "Toscana > Arezzo > Cavriglia - Via dei Pioppi, 52022 Neri AR, Italia": {
+    "lat": 43.5218737,
+    "lng": 11.4889722,
+    "precision": "comune"
   }
 }
